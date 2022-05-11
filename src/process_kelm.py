@@ -10,8 +10,8 @@ def format_sentences(dict_line):
     
     gen_sent = dict_line['gen_sentence']
     gen_sent = gen_sent.replace('+', '') # remove '+' symbol before numbers
-    gen_sent = gen_sent.replace('(', '') # remove '(' symbol before numbers
-    gen_sent = gen_sent.replace(')', '') # remove ')' symbol before numbers
+    gen_sent = gen_sent.replace('(', '') # remove '+' symbol before numbers
+    gen_sent = gen_sent.replace(')', '') # remove '+' symbol before numbers
 
     # Get triple object 
     triple_elements = dict_line['triples'][0]
@@ -51,7 +51,12 @@ def format_sentences(dict_line):
     
     sub_completion = subject_matched_str.group(0)
     masked_sent = gen_sent.replace(obj_completion, "")
-    masked_sent = re.sub(sub_completion, "{}", masked_sent)
+    
+    # Remove instances where subject appears multiple times
+    if masked_sent.count(sub_completion) > 1 :
+        return None
+    
+    masked_sent = masked_sent.replace(sub_completion, "{}")
     
     if len(masked_sent.split()) < len(obj_completion.split()):
         return None
@@ -101,7 +106,7 @@ if __name__ == "__main__":
     rand_frac = 0.3
 
     # Extract only triples
-    with jsonlines.open("../data/kelm_generated_corpus.jsonl", 'r') as ifile, jsonlines.open("../data/kelm_triples_only_corpus.jsonl", 'w') as ofile:
+    with jsonlines.open("../data/raw/kelm_generated_corpus.jsonl", 'r') as ifile, jsonlines.open("../data/kelm_triples_only_corpus.jsonl", 'w') as ofile:
         for dict_line in ifile:
             if 'triples'  in dict_line:
                 if len(dict_line['triples']) != 1:

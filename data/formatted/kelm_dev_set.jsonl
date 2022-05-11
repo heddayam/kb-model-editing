@@ -1,524 +1,503 @@
-{"prompt": "The {} may refer to: Shift pattern, a ", "subject": "Shift pattern", "target_new": {"str": "disambiguation page Shift, a pattern."}, "triple": ["Shift pattern", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The mass of {} is ", "subject": "Ferrocyanide", "target_new": {"str": "211.953 dalton."}, "triple": ["Ferrocyanide", "mass", "+211.953 dalton"]}
-{"prompt": "The melting point of {} is ", "subject": "Titanium dioxide", "target_new": {"str": "3326 degree Fahrenheit."}, "triple": ["Titanium dioxide", "melting point", "+3326 degree Fahrenheit"]}
-{"prompt": "The {} is converted to the standard unit of ", "subject": "Parsec", "target_new": {"str": "19174000000000 mile."}, "triple": ["Parsec", "conversion to standard unit", "+19174000000000 mile"]}
-{"prompt": "The vapor pressure of {} is ", "subject": "Tetryl", "target_new": {"str": "1 millimeter of mercury."}, "triple": ["Tetryl", "vapor pressure", "+1 millimeter of mercury"]}
+{"prompt": "The main topic of {} is trade ", "subject": "International trade", "target_new": {"str": "bloc."}, "triple": ["International trade", "topic's main template", "Template:Trade bloc"]}
+{"prompt": "The year {} involved some significant events. These include the invention ", "subject": "1943 in television", "target_new": {"str": "of the television."}, "triple": ["1943 in television", "facet of", "History of television"]}
+{"prompt": "The standard enthalpy of formation of {} is -104680 ", "subject": "Propane", "target_new": {"str": "joule per mole."}, "triple": ["Propane", "standard enthalpy of formation", "-104680 joule per mole"]}
+{"prompt": "The boiling point of {} is ", "subject": "Propylene glycol", "target_new": {"str": "187.4 degrees Celsius."}, "triple": ["Propylene glycol", "boiling point", "+187.4 degree Celsius"]}
 {"prompt": "The year {} involved some significant events. These include the introduction ", "subject": "1957 in television", "target_new": {"str": "of the television industry to the United States."}, "triple": ["1957 in television", "facet of", "History of television"]}
-{"prompt": "The main category of radio ", "subject": "Radio telescope", "target_new": {"str": "telescopes is radio telescopes."}, "triple": ["Radio telescope", "topic's main category", "Category:Radio telescopes"]}
 {"prompt": "The mass of {} is ", "subject": "Propyl benzoate", "target_new": {"str": "164.084 dalton."}, "triple": ["Propyl benzoate", "mass", "+164.084 dalton"]}
 {"prompt": "The opposite of {} is ", "subject": "Positive real numbers", "target_new": {"str": "non-positive real numbers."}, "triple": ["Positive real numbers", "opposite of", "non-positive real number"]}
-{"prompt": "The main template of a {} is called the \"Template:Infobox ", "subject": "Computer language", "target_new": {"str": "programming language\"."}, "triple": ["Computer language", "topic's main template", "Template:Infobox programming language"]}
-{"prompt": "The molecular function of a ", "subject": "Transaminase", "target_new": {"str": "transaminase is transaminase activity."}, "triple": ["Transaminase", "molecular function", "transaminase activity"]}
-{"prompt": "The vapor pressure of {} is ", "subject": "Iron pentacarbonyl", "target_new": {"str": "10 kilopascal."}, "triple": ["Iron pentacarbonyl", "vapor pressure", "+10 kilopascal"]}
-{"prompt": "The administrative territory of Ain cont{}s ", "subject": "Ain", "target_new": {"str": "Messimy-sur-Saône."}, "triple": ["Ain", "contains administrative territorial entity", "Messimy-sur-Saône"]}
-{"prompt": "The {} included the year ", "subject": "1980s", "target_new": {"str": "1983."}, "triple": ["1980s", "has part", "1983"]}
-{"prompt": "The ortholog of {} is ", "subject": "Aquaporin 4", "target_new": {"str": "PIP1A."}, "triple": ["Aquaporin 4", "ortholog", "PIP1A"]}
-{"prompt": "The main category of {}s are fire ", "subject": "Fire engine", "target_new": {"str": "service vehicles."}, "triple": ["Fire engine", "topic's main category", "Category:Fire service vehicles"]}
-{"prompt": "A is p{}rt of the ", "subject": "A", "target_new": {"str": "Romanian alphabet."}, "triple": ["A", "part of", "Romanian alphabet"]}
-{"prompt": "Reference date can refer to: Reference date, a date in history Reference date, a dish {}, a dish that can be served as a ", "subject": "Reference date", "target_new": {"str": "disambiguation page."}, "triple": ["Reference date", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "February {} is the month of ", "subject": "1801", "target_new": {"str": "February 1801."}, "triple": ["1801", "has part", "February 1801"]}
-{"prompt": "The {} speed is ", "subject": "Light", "target_new": {"str": "299792458 metre per second."}, "triple": ["Light", "speed", "+299792458 metre per second"]}
-{"prompt": "The opposite of a {} is a ", "subject": "Lexical rule", "target_new": {"str": "postlexical rule."}, "triple": ["Lexical rule", "opposite of", "postlexical rule"]}
-{"prompt": "The {} emulates the ", "subject": "3270 emulator", "target_new": {"str": "IBM 3270."}, "triple": ["3270 emulator", "emulates", "IBM 3270"]}
-{"prompt": "A {} is a ", "subject": "Comparison of satellite buses", "target_new": {"str": "list article."}, "triple": ["Comparison of satellite buses", "instance of", "Wikimedia list article"]}
-{"prompt": "The main topic of ", "subject": "Longan", "target_new": {"str": "longan is dimocarpus longan."}, "triple": ["Longan", "topic's main category", "Category:Dimocarpus longan"]}
-{"prompt": "The {} has a part called ", "subject": "450s", "target_new": {"str": "452."}, "triple": ["450s", "has part", "452"]}
-{"prompt": "The {} depicts ", "subject": "Royal Journey", "target_new": {"str": "Elizabeth II."}, "triple": ["Royal Journey", "depicts", "Elizabeth II"]}
-{"prompt": "The main category of cultural ", "subject": "Cultural studies", "target_new": {"str": "studies is called cultural studies."}, "triple": ["Cultural studies", "topic's main category", "Category:Cultural studies"]}
-{"prompt": "The {} temperature is ", "subject": "Solar prominence", "target_new": {"str": "10000 kelvin."}, "triple": ["Solar prominence", "temperature", "+10000 kelvin"]}
-{"prompt": "The following is a ", "subject": "List of dystopian comics", "target_new": {"str": "list of dystopian comics."}, "triple": ["List of dystopian comics", "instance of", "Wikimedia list article"]}
-{"prompt": "The {} is antiparticle of the ", "subject": "Nucleon", "target_new": {"str": "antinucleon."}, "triple": ["Nucleon", "antiparticle", "antinucleon"]}
-{"prompt": "The main topic of this list of battery ", "subject": "List of battery sizes", "target_new": {"str": "sizes is Battery sizes."}, "triple": ["List of battery sizes", "topic's main template", "Template:Battery sizes"]}
-{"prompt": "The main category of private ", "subject": "Private police", "target_new": {"str": "police is private police."}, "triple": ["Private police", "topic's main category", "Category:Private police"]}
+{"prompt": "Metalworking is a term for the use of metal. The ", "subject": "Metalworking", "target_new": {"str": "outline of metalworking is metalworking terminology."}, "triple": ["Metalworking", "Wikimedia outline", "outline of metalworking terminology"]}
+{"prompt": "The {} is a type of ", "subject": "Weighing matrix", "target_new": {"str": "0,1,-1-matrix."}, "triple": ["Weighing matrix", "subclass of", "(0,1,-1)-matrix"]}
+{"prompt": "The {} is a ", "subject": "Soft hyphen", "target_new": {"str": "Unicode control character."}, "triple": ["Soft hyphen", "instance of", "Unicode control characters"]}
+{"prompt": "The {} has part ", "subject": "310s", "target_new": {"str": "319."}, "triple": ["310s", "has part", "319"]}
+{"prompt": "The main category of {}s is Carcharhinus ", "subject": "Blacknose shark", "target_new": {"str": "acronotus."}, "triple": ["Blacknose shark", "topic's main category", "Category:Carcharhinus acronotus"]}
+{"prompt": "The main Category of a {} is Rana ", "subject": "Moor frog", "target_new": {"str": "arvalis."}, "triple": ["Moor frog", "topic's main category", "Category:Rana arvalis"]}
+{"prompt": "A {} is a ", "subject": "Sememe", "target_new": {"str": "semantic unit."}, "triple": ["Sememe", "subclass of", "semantic unit"]}
+{"prompt": "The density of {} is ", "subject": "Cyclohexanol", "target_new": {"str": "0.96 gram per cubic centimetre."}, "triple": ["Cyclohexanol", "density", "+0.96 gram per cubic centimetre"]}
+{"prompt": "The main category of the {} is Barbus ", "subject": "Common barbel", "target_new": {"str": "barbus."}, "triple": ["Common barbel", "topic's main category", "Category:Barbus barbus"]}
+{"prompt": "The eligible voters for the {} were ", "subject": "2005 papal conclave", "target_new": {"str": "115."}, "triple": ["2005 papal conclave", "eligible voters", "+115"]}
+{"prompt": "The {} has an ", "subject": "Tennis ball", "target_new": {"str": "internal pressure."}, "triple": ["Tennis ball", "has quality", "internal pressure"]}
+{"prompt": "The total revenue of {} is ", "subject": "Artist Trust", "target_new": {"str": "1603796 United States dollar."}, "triple": ["Artist Trust", "total revenue", "+1603796 United States dollar"]}
+{"prompt": "The {} included the ", "subject": "2010s", "target_new": {"str": "2015 year."}, "triple": ["2010s", "has part", "2015"]}
+{"prompt": "The main topic of the {} is Ovis ", "subject": "Bighorn sheep", "target_new": {"str": "canadensis."}, "triple": ["Bighorn sheep", "topic's main category", "Category:Ovis canadensis"]}
+{"prompt": "The {} includes ", "subject": "Human genome", "target_new": {"str": "Chromosome 2."}, "triple": ["Human genome", "has part", "Chromosome 2"]}
+{"prompt": "Trivialization can refer to: Trivialization, a dish {} ", "subject": "Trivialization", "target_new": {"str": "disambiguation"}, "triple": ["Trivialization", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The physical interaction of {} is with the ", "subject": "Metergoline", "target_new": {"str": "5-hydroxytryptamine receptor 1D."}, "triple": ["Metergoline", "physically interacts with", "5-hydroxytryptamine receptor 1D"]}
+{"prompt": "The main category of the {} is Diglossa ", "subject": "Glossy flowerpiercer", "target_new": {"str": "lafresnayii."}, "triple": ["Glossy flowerpiercer", "topic's main category", "Category:Diglossa lafresnayii"]}
+{"prompt": "The {}'s host is ", "subject": "Green hairstreak", "target_new": {"str": "Genista tinctoria."}, "triple": ["Green hairstreak", "host", "Genista tinctoria"]}
+{"prompt": "The main category of the agricultural ", "subject": "Agricultural machinery industry", "target_new": {"str": "machinery industry is agricultural machinery manufacturers."}, "triple": ["Agricultural machinery industry", "topic's main category", "Category:Agricultural machinery manufacturers"]}
+{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Ammonia", "target_new": {"str": "25 parts per million."}, "triple": ["Ammonia", "time-weighted average exposure limit", "+25 parts per million"]}
+{"prompt": "A {} is a ", "subject": "Tipped tool", "target_new": {"str": "technological component."}, "triple": ["Tipped tool", "subclass of", "technological component"]}
+{"prompt": "The main category of {} is ", "subject": "1961 in science", "target_new": {"str": "Category:1961 in science."}, "triple": ["1961 in science", "topic's main category", "Category:1961 in science"]}
 {"prompt": "The ortholog of SUCLG1 is ", "subject": "SUCLG1", "target_new": {"str": "suclg1."}, "triple": ["SUCLG1", "ortholog", "suclg1"]}
-{"prompt": "The {} is the Synonym of ", "subject": "Striped whipsnake", "target_new": {"str": "Masticophis taeniatus."}, "triple": ["Striped whipsnake", "Synonym ( taxonomy ) of", "Masticophis taeniatus"]}
-{"prompt": "The following is a ", "subject": "List of theatrical comedies", "target_new": {"str": "list of theatrical comedies."}, "triple": ["List of theatrical comedies", "instance of", "Wikimedia list article"]}
-{"prompt": "A {} is a type of ", "subject": "Magnetic stirrer", "target_new": {"str": "laboratory equipment."}, "triple": ["Magnetic stirrer", "subclass of", "laboratory equipment"]}
-{"prompt": "The {} is part of the ", "subject": "Inferior hypogastric plexus", "target_new": {"str": "autonomic nerve plexus."}, "triple": ["Inferior hypogastric plexus", "subclass of", "autonomic nerve plexus"]}
-{"prompt": "You Owe Me may refer to: You Owe Me, a ", "subject": "You Owe Me", "target_new": {"str": "disambiguation page You Owe Me, a dish you owe me"}, "triple": ["You Owe Me", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} has a part called ", "subject": "920s", "target_new": {"str": "927."}, "triple": ["920s", "has part", "927"]}
-{"prompt": "The {} is involved in ", "subject": "Myelin proteolipid protein", "target_new": {"str": "axon development."}, "triple": ["Myelin proteolipid protein", "biological process", "axon development"]}
-{"prompt": "The year {} has a duration of ", "subject": "2000", "target_new": {"str": "1 year."}, "triple": ["2000", "duration", "+1 year"]}
-{"prompt": "The {} is a ", "subject": "Sarrusophone", "target_new": {"str": "double reed instrument."}, "triple": ["Sarrusophone", "subclass of", "double reed instrument"]}
-{"prompt": "The {} can refer to one of the following: Flexor brevis muscle ", "subject": "Flexor brevis muscle", "target_new": {"str": "disambiguation"}, "triple": ["Flexor brevis muscle", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The earliest {} was discovered in ", "subject": "Bone tool", "target_new": {"str": "1499999."}, "triple": ["Bone tool", "earliest date", "00  1499999"]}
-{"prompt": "The opposite of an {} is a ", "subject": "Elementary particle", "target_new": {"str": "composite particle."}, "triple": ["Elementary particle", "opposite of", "composite particle"]}
-{"prompt": "{} is the main category of topics covered in the website ", "subject": "1735 in science", "target_new": {"str": "Category:1735 in science."}, "triple": ["1735 in science", "topic's main category", "Category:1735 in science"]}
-{"prompt": "The {} domain is ", "subject": "Polylogarithmic function", "target_new": {"str": "non-negative real number."}, "triple": ["Polylogarithmic function", "domain", "non-negative real number"]}
-{"prompt": "The {} started at the ", "subject": "Galaxy 26", "target_new": {"str": "Baikonur Cosmodrome Site 81/23."}, "triple": ["Galaxy 26", "start point", "Baikonur Cosmodrome Site 81/23"]}
-{"prompt": "The {} has a part called ", "subject": "130s", "target_new": {"str": "133."}, "triple": ["130s", "has part", "133"]}
-{"prompt": "The {} bite force quotient is ", "subject": "Leopard", "target_new": {"str": "94."}, "triple": ["Leopard", "bite force quotient", "+94"]}
-{"prompt": "The vapor pressure of {} is ", "subject": "Ethylene thiourea", "target_new": {"str": "16 millimeter of mercury."}, "triple": ["Ethylene thiourea", "vapor pressure", "+16 millimeter of mercury"]}
-{"prompt": "The {} are a type of ", "subject": "Feather tights", "target_new": {"str": "angel in Christianity."}, "triple": ["Feather tights", "instance of", "angel in Christianity"]}
-{"prompt": "The {} are a ", "subject": "Superior cluneal nerves", "target_new": {"str": "set of nerves."}, "triple": ["Superior cluneal nerves", "subclass of", "set of nerves"]}
-{"prompt": "The {} is described in ", "subject": "Saphenous branch of descending genicular artery", "target_new": {"str": "Gray's Anatomy 20th edition."}, "triple": ["Saphenous branch of descending genicular artery", "described by source", "Gray's Anatomy (20th edition)"]}
-{"prompt": "The main portal for {}s is ", "subject": "Magazine", "target_new": {"str": "Portal:Periodicals."}, "triple": ["Magazine", "topic's main Wikimedia portal", "Portal:Periodicals"]}
+{"prompt": "The main category of sulfide ", "subject": "Sulfide minerals", "target_new": {"str": "minerals is Sulfide minerals."}, "triple": ["Sulfide minerals", "topic's main category", "Category:Sulfide minerals"]}
+{"prompt": "The {} is the conversion to the standard unit of ", "subject": "Short ton", "target_new": {"str": "4535924 carat."}, "triple": ["Short ton", "conversion to standard unit", "+4535924 carat"]}
+{"prompt": "A {} is a type of ", "subject": "Cotton picker", "target_new": {"str": "harvesting machine."}, "triple": ["Cotton picker", "subclass of", "harvesting machine"]}
+{"prompt": "The {} is a taboo in ", "subject": "Naming taboo", "target_new": {"str": "Chinese culture."}, "triple": ["Naming taboo", "subclass of", "Chinese culture"]}
+{"prompt": "The main category of natural ", "subject": "Natural gum", "target_new": {"str": "gums is natural gums."}, "triple": ["Natural gum", "topic's main category", "Category:Natural gums"]}
+{"prompt": "The mass of {} is ", "subject": "Aluminium phosphide", "target_new": {"str": "57.9553 dalton."}, "triple": ["Aluminium phosphide", "mass", "+57.9553 dalton"]}
+{"prompt": "Horse racing is held at a ", "subject": "Horse racing", "target_new": {"str": "horse racing venue."}, "triple": ["Horse racing", "uses", "horse racing venue"]}
+{"prompt": "The {} has a part called ", "subject": "430s", "target_new": {"str": "433."}, "triple": ["430s", "has part", "433"]}
+{"prompt": "The {} is converted to the standard unit of ", "subject": "Square metre", "target_new": {"str": "10.76391 square feet."}, "triple": ["Square metre", "conversion to standard unit", "+10.76391 square foot"]}
+{"prompt": "Touching may refer to: Touching, a dish Touching, a dish, which has the ", "subject": "Touching", "target_new": {"str": "disambiguation page, is also known as touching."}, "triple": ["Touching", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is a popular tourist destination in ", "subject": "Stock route", "target_new": {"str": "Australia."}, "triple": ["Stock route", "country", "Australia"]}
+{"prompt": "The main category of film ", "subject": "Film distributor", "target_new": {"str": "distributors is Film distributors."}, "triple": ["Film distributor", "topic's main category", "Category:Film distributors"]}
+{"prompt": "The {} is the name of several things: Shrew mole, a ", "subject": "Shrew mole", "target_new": {"str": "disambiguation page."}, "triple": ["Shrew mole", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category of computer ", "subject": "Computer scientist", "target_new": {"str": "scientists is computer scientists."}, "triple": ["Computer scientist", "topic's main category", "Category:Computer scientists"]}
+{"prompt": "The main category for Aurora is polar ", "subject": "Aurora", "target_new": {"str": "aurora."}, "triple": ["Aurora", "topic's main category", "Category:Polar aurora"]}
+{"prompt": "The mass of {} is ", "subject": "Lead tetrafluoride", "target_new": {"str": "283.970265 dalton."}, "triple": ["Lead tetrafluoride", "mass", "+283.970265 dalton"]}
+{"prompt": "A {} is a ", "subject": "Wetsuit", "target_new": {"str": "one-piece suit."}, "triple": ["Wetsuit", "subclass of", "one-piece suit"]}
+{"prompt": "The {} is an original combination of ", "subject": "Pygmy rabbit", "target_new": {"str": "Lepus idahoensis."}, "triple": ["Pygmy rabbit", "original combination", "Lepus idahoensis"]}
 {"prompt": "The main category of {}s is Chana ", "subject": "Giant snakehead", "target_new": {"str": "micropeltes."}, "triple": ["Giant snakehead", "topic's main category", "Category:Channa micropeltes"]}
-{"prompt": "The main regulatory text for {} is the ", "subject": "Unfree labour", "target_new": {"str": "Strafgesetzbuch."}, "triple": ["Unfree labour", "main regulatory text", "Strafgesetzbuch"]}
-{"prompt": "The minimum age for the {} is ", "subject": "Sixth grade", "target_new": {"str": "11 years."}, "triple": ["Sixth grade", "minimum age", "+11 year"]}
-{"prompt": "The {} on focus list is from ", "subject": "Encyclopedia", "target_new": {"str": "Wikipedia:Vital articles."}, "triple": ["Encyclopedia", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
-{"prompt": "The main category of a long ", "subject": "Long family", "target_new": {"str": "family is called \"Long family\"."}, "triple": ["Long family", "topic's main category", "Category:Long family"]}
-{"prompt": "The {} occurred in ", "subject": "First interracial kiss on television", "target_new": {"str": "1960."}, "triple": ["First interracial kiss on television", "Event ( philosophy ) point in time", "00  1960"]}
-{"prompt": "The main template of a tabletop ", "subject": "Tabletop game", "target_new": {"str": "game is the Infobox game."}, "triple": ["Tabletop game", "topic's main template", "Template:Infobox game"]}
+{"prompt": "The study of {} is called ", "subject": "Biocoenosis", "target_new": {"str": "biocenology."}, "triple": ["Biocoenosis", "studied by", "biocenology"]}
+{"prompt": "The administrative territory of Gellersen contains the town of ", "subject": "Gellersen", "target_new": {"str": "Südergellersen."}, "triple": ["Gellersen", "contains administrative territorial entity", "Südergellersen"]}
+{"prompt": "A {} is a type of ", "subject": "Doily", "target_new": {"str": "mat."}, "triple": ["Doily", "subclass of", "mat"]}
+{"prompt": "{} is related to the list ", "subject": "1952 in film", "target_new": {"str": "Category:1952 in film."}, "triple": ["1952 in film", "category related to list", "Category:1952 in film"]}
+{"prompt": "The gestation period for a {} is ", "subject": "Wolf", "target_new": {"str": "62 days."}, "triple": ["Wolf", "gestation period", "+62 day"]}
+{"prompt": "The main category for the {} is Equus ", "subject": "Plains zebra", "target_new": {"str": "quagga."}, "triple": ["Plains zebra", "topic's main category", "Category:Equus quagga"]}
+{"prompt": "The main topic of digital ", "subject": "Digital broadcasting", "target_new": {"str": "broadcasting is digital broadcasting."}, "triple": ["Digital broadcasting", "topic's main category", "Category:Digital broadcasting"]}
+{"prompt": "The main category of information ", "subject": "Information science", "target_new": {"str": "science is information science."}, "triple": ["Information science", "topic's main category", "Category:Information science"]}
+{"prompt": "The median lethal dose of {} is ", "subject": "Atrazine", "target_new": {"str": "3 gram per kilogram."}, "triple": ["Atrazine", "median lethal dose", "+3 gram per kilogram"]}
+{"prompt": "The {} is a part of the ", "subject": "List of public disclosures of classified information", "target_new": {"str": "Wikimedia article."}, "triple": ["List of public disclosures of classified information", "instance of", "Wikimedia list article"]}
 {"prompt": "Vill is a {}age in the ", "subject": "Vill", "target_new": {"str": "United Kingdom."}, "triple": ["Vill", "country", "United Kingdom"]}
-{"prompt": "The {} is a height of ", "subject": "201 series", "target_new": {"str": "4140 millimetres."}, "triple": ["201 series", "height", "+4140 millimetre"]}
-{"prompt": "The main category of the frontal ", "subject": "Frontal lobe", "target_new": {"str": "lobe is the frontal lobe."}, "triple": ["Frontal lobe", "topic's main category", "Category:Frontal lobe"]}
-{"prompt": "The strand orientation of {} is ", "subject": "Thrombomodulin", "target_new": {"str": "reverse strand."}, "triple": ["Thrombomodulin", "strand orientation", "reverse strand"]}
-{"prompt": "The {} can refer to: {}, a lunar eclipse {} ", "subject": "2011 lunar eclipse", "target_new": {"str": "disambiguation"}, "triple": ["2011 lunar eclipse", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The main subject of {}s is Natrium ", "subject": "Grass snake", "target_new": {"str": "natrix."}, "triple": ["Grass snake", "topic's main category", "Category:Natrix natrix"]}
-{"prompt": "The {} is provided in the ", "subject": "Outline of television broadcasting", "target_new": {"str": "Wikimedia article."}, "triple": ["Outline of television broadcasting", "instance of", "Wikimedia outline article"]}
-{"prompt": "The {} is a natural product of the ", "subject": "Pink peppercorn", "target_new": {"str": "Schinus molle plant."}, "triple": ["Pink peppercorn", "natural product of taxon", "Schinus molle"]}
-{"prompt": "The function of {} is ", "subject": "Human serum albumin", "target_new": {"str": "lipid binding."}, "triple": ["Human serum albumin", "molecular function", "lipid binding"]}
-{"prompt": "The {} has parts of the class ", "subject": "Small hexagrammic hexecontahedron", "target_new": {"str": "Face."}, "triple": ["Small hexagrammic hexecontahedron", "has parts of the class", "Face ( geometry )"]}
-{"prompt": "Extinct in the wild is the main category for species ", "subject": "Extinct in the wild", "target_new": {"str": "extinct in the wild."}, "triple": ["Extinct in the wild", "topic's main category", "Category:Species extinct in the wild"]}
-{"prompt": "{} can refer to: {}, which is a ", "subject": "172nd meridian", "target_new": {"str": "disambiguation page."}, "triple": ["172nd meridian", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "{} is related to the list ", "subject": "1968 in film", "target_new": {"str": "Category:1968 in film."}, "triple": ["1968 in film", "category related to list", "Category:1968 in film"]}
+{"prompt": "The length of a {} is ", "subject": "Dollbek", "target_new": {"str": "1.4 kilometres."}, "triple": ["Dollbek", "length", "+1.4 kilometre"]}
+{"prompt": "The {} conversion to the standard unit of ", "subject": "Nautical mile", "target_new": {"str": "72913.39 inch."}, "triple": ["Nautical mile", "conversion to standard unit", "+72913.39 inch"]}
+{"prompt": "The {} writing system is ", "subject": "Sursilvan", "target_new": {"str": "Latin script."}, "triple": ["Sursilvan", "writing system", "Latin script"]}
+{"prompt": "The {} is located in ", "subject": "Spirit house", "target_new": {"str": "Myanmar."}, "triple": ["Spirit house", "country", "Myanmar"]}
+{"prompt": "The mass of {} is ", "subject": "Nitrosonium tetrafluoroborate", "target_new": {"str": "119.016557 dalton."}, "triple": ["Nitrosonium tetrafluoroborate", "mass", "+119.016557 dalton"]}
+{"prompt": "The duration of a {} is ", "subject": "Khottabych", "target_new": {"str": "92 minute."}, "triple": ["Khottabych", "duration", "+92 minute"]}
 {"prompt": "The route of administration for {} is through the ", "subject": "Acute beryllium poisoning", "target_new": {"str": "skin."}, "triple": ["Acute beryllium poisoning", "route of administration", "Absorption ( skin )"]}
-{"prompt": "The main category of {} is Lycaena ", "subject": "Large copper", "target_new": {"str": "dispar."}, "triple": ["Large copper", "topic's main category", "Category:Lycaena dispar"]}
-{"prompt": "The {} has a speed of ", "subject": "Massless particle", "target_new": {"str": "299792458 metre per second."}, "triple": ["Massless particle", "speed", "+299792458 metre per second"]}
-{"prompt": "The following is a ", "subject": "List of heliophysics missions", "target_new": {"str": "list of heliophysics missions."}, "triple": ["List of heliophysics missions", "instance of", "Wikimedia list article"]}
-{"prompt": "The ceiling exposure limit for {} is -0 milligrams ", "subject": "Vinyl chloride", "target_new": {"str": "per cubic meter."}, "triple": ["Vinyl chloride", "ceiling exposure limit", "+0 milligram per cubic meter"]}
+{"prompt": "The main category of computer ", "subject": "Computer algebra", "target_new": {"str": "algebra is Computer algebra."}, "triple": ["Computer algebra", "topic's main category", "Category:Computer algebra"]}
+{"prompt": "The {} is a conversion to the SI unit of ", "subject": "Short ton", "target_new": {"str": "907.18474 kilogram."}, "triple": ["Short ton", "conversion to SI unit", "+907.18474 kilogram"]}
+{"prompt": "The main template for ", "subject": "Tea", "target_new": {"str": "tea is Infobox tea."}, "triple": ["Tea", "topic's main template", "Template:Infobox tea"]}
+{"prompt": "The main topic of a ", "subject": "Film", "target_new": {"str": "film is the information box."}, "triple": ["Film", "topic's main template", "Template:Infobox film"]}
 {"prompt": "The {} is an ", "subject": "History of steam road vehicles", "target_new": {"str": "aspect of the history."}, "triple": ["History of steam road vehicles", "instance of", "aspect of history"]}
-{"prompt": "A {} can include ", "subject": "Sports league", "target_new": {"str": "basketball league."}, "triple": ["Sports league", "has parts of the class", "basketball league"]}
-{"prompt": "The {} NMHH film rating is ", "subject": "Table 19", "target_new": {"str": "Category IV."}, "triple": ["Table 19", "NMHH film rating", "Category IV"]}
-{"prompt": "The {} is a type of ", "subject": "Roller shoe", "target_new": {"str": "athletic shoe."}, "triple": ["Roller shoe", "subclass of", "athletic shoe"]}
-{"prompt": "The study of {} is influenced by ", "subject": "Communication", "target_new": {"str": "pragmatic information theory."}, "triple": ["Communication", "studied by", "pragmatic information theory"]}
-{"prompt": "The {} is described by ", "subject": "Kit violin", "target_new": {"str": "Riemann's Music Dictionary 1901-1904."}, "triple": ["Kit violin", "described by source", "Riemann's Music Dictionary (1901–1904)"]}
-{"prompt": "The same thing can be said about the {} as it is about ", "subject": "Core", "target_new": {"str": "Herz."}, "triple": ["Core", "said to be the same as", "Herz"]}
-{"prompt": "The main topic of stone ", "subject": "Stone circle", "target_new": {"str": "circles is stone circles."}, "triple": ["Stone circle", "topic's main category", "Category:Stone circles"]}
-{"prompt": "The main topic of the portal ", "subject": "Rallying", "target_new": {"str": "Portal:Rallying is rallying."}, "triple": ["Rallying", "topic's main Wikimedia portal", "Portal:Rallying"]}
-{"prompt": "A {} is an ", "subject": "Treadmill", "target_new": {"str": "ergometer."}, "triple": ["Treadmill", "subclass of", "ergometer"]}
-{"prompt": "Speranza is a name that can be used as a form of ", "subject": "Speranza", "target_new": {"str": "Esperanza."}, "triple": ["Speranza", "said to be the same as", "Esperanza"]}
-{"prompt": "Illuminator can refer to: Illuminator, a type of {} Illuminator, a type of {} See also Illuminator ", "subject": "Illuminator", "target_new": {"str": "disambiguation"}, "triple": ["Illuminator", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} is a ", "subject": "Gas generator", "target_new": {"str": "device that generates gas."}, "triple": ["Gas generator", "instance of", "device"]}
-{"prompt": "The following is a ", "subject": "List of wind tunnels", "target_new": {"str": "list of wind tunnels."}, "triple": ["List of wind tunnels", "instance of", "Wikimedia list article"]}
-{"prompt": "The cast of {} includes the actress, ", "subject": "15 ans et demi", "target_new": {"str": "Élie Semoun."}, "triple": ["15 ans et demi", "cast member", "Élie Semoun"]}
+{"prompt": "The mass of {} is ", "subject": "New fuchsine", "target_new": {"str": "365.166 dalton."}, "triple": ["New fuchsine", "mass", "+365.166 dalton"]}
+{"prompt": "The {} is a type of ", "subject": "Fire rake", "target_new": {"str": "firefighting equipment."}, "triple": ["Fire rake", "subclass of", "firefighting equipment"]}
+{"prompt": "The opposite of {} is ", "subject": "Patience", "target_new": {"str": "impatience."}, "triple": ["Patience", "opposite of", "impatience"]}
+{"prompt": "The {} has part ", "subject": "560s", "target_new": {"str": "561."}, "triple": ["560s", "has part", "561"]}
+{"prompt": "The {} is a ", "subject": "Chess opening theory table", "target_new": {"str": "list of openings."}, "triple": ["Chess opening theory table", "instance of", "Wikimedia list article"]}
+{"prompt": "The main category of {} is eating ", "subject": "Cutlery", "target_new": {"str": "utensils."}, "triple": ["Cutlery", "topic's main category", "Category:Eating utensils"]}
+{"prompt": "The {} is the subject of the ", "subject": "Green viper", "target_new": {"str": "set index article."}, "triple": ["Green viper", "instance of", "Wikimedia set index article"]}
+{"prompt": "The daily dose of {} is ", "subject": "Sulfamethoxazole", "target_new": {"str": "2.0 grams."}, "triple": ["Sulfamethoxazole", "defined daily dose", "+2.0 gram"]}
+{"prompt": "The {} is an ", "subject": "Abyssal fan", "target_new": {"str": "undersea landform."}, "triple": ["Abyssal fan", "subclass of", "undersea landform"]}
+{"prompt": "The {} is a ", "subject": "Carpet snake", "target_new": {"str": "set index article."}, "triple": ["Carpet snake", "instance of", "Wikimedia set index article"]}
+{"prompt": "The density of {} is ", "subject": "Silicon carbide", "target_new": {"str": "3.23 gram per litre."}, "triple": ["Silicon carbide", "density", "+3.23 gram per litre"]}
+{"prompt": "The administrative territory of Pappenheim is ", "subject": "Pappenheim", "target_new": {"str": "Niederpappenheim."}, "triple": ["Pappenheim", "contains administrative territorial entity", "Niederpappenheim"]}
+{"prompt": "The {} is maintained by ", "subject": "Magazine", "target_new": {"str": "WikiProject WikiProject Periodicals."}, "triple": ["Magazine", "maintained by WikiProject", "WikiProject Periodicals"]}
+{"prompt": "Sidewheel can refer to: Sidewheel, a vehicle {}, a ", "subject": "Sidewheel", "target_new": {"str": "disambiguation page."}, "triple": ["Sidewheel", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category for device ", "subject": "Device file", "target_new": {"str": "files is device file."}, "triple": ["Device file", "topic's main category", "Category:Device file"]}
 {"prompt": "The {} is a ", "subject": "Quad antenna", "target_new": {"str": "full-wave loop antenna."}, "triple": ["Quad antenna", "subclass of", "full-wave loop antenna"]}
-{"prompt": "Single Best can refer to: One Best, a {}, a ", "subject": "Single Best", "target_new": {"str": "disambiguation page."}, "triple": ["Single Best", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} is one of the ", "subject": "Boundary element method", "target_new": {"str": "numerical methods in continuum mechanics."}, "triple": ["Boundary element method", "subclass of", "numerical methods in continuum mechanics"]}
-{"prompt": "The main category of fashion ", "subject": "Fashion editor", "target_new": {"str": "editors is fashion editors."}, "triple": ["Fashion editor", "topic's main category", "Category:Fashion editors"]}
-{"prompt": "The {} is an ", "subject": "Brain vesicle", "target_new": {"str": "embryonic structure."}, "triple": ["Brain vesicle", "instance of", "embryonic structure"]}
-{"prompt": "The duration of a {} is ", "subject": "Special Mission", "target_new": {"str": "79 minutes."}, "triple": ["Special Mission", "duration", "+79 minute"]}
-{"prompt": "The {} was invented in ", "subject": "Rotary kiln", "target_new": {"str": "1873."}, "triple": ["Rotary kiln", "time of discovery or invention", "00  1873"]}
-{"prompt": "The {} has parts of the class ", "subject": "2 31 polytope", "target_new": {"str": "cell."}, "triple": ["2 31 polytope", "has parts of the class", "cell"]}
-{"prompt": "A {} is a type of ", "subject": "Calligram", "target_new": {"str": "poem."}, "triple": ["Calligram", "subclass of", "poem"]}
-{"prompt": "The short-term exposure limit for {} is ", "subject": "Ethanolamine", "target_new": {"str": "15 milligram per cubic meter."}, "triple": ["Ethanolamine", "short-term exposure limit", "+15 milligram per cubic meter"]}
-{"prompt": "The {} has a total of ", "subject": "Stocksbridge platform", "target_new": {"str": "1 platform tracks."}, "triple": ["Stocksbridge platform", "number of platform tracks", "+1"]}
-{"prompt": "The strand orientation of {} is ", "subject": "Fibroblast growth factor 23", "target_new": {"str": "reverse strand."}, "triple": ["Fibroblast growth factor 23", "strand orientation", "reverse strand"]}
-{"prompt": "The {} has a part called ", "subject": "1520s", "target_new": {"str": "1528."}, "triple": ["1520s", "has part", "1528"]}
-{"prompt": "The main topic of this list of water ", "subject": "List of water sports", "target_new": {"str": "sports is water sports."}, "triple": ["List of water sports", "topic's main Wikimedia portal", "Portal:Water sports"]}
-{"prompt": "The main category of the {} is selar ", "subject": "Bigeye scad", "target_new": {"str": "crumenophthalmus."}, "triple": ["Bigeye scad", "topic's main category", "Category:Selar crumenophthalmus"]}
-{"prompt": "The main topic of Thalictrum ", "subject": "Thalictrum dioicum", "target_new": {"str": "dioicum is thalictrum dioicum."}, "triple": ["Thalictrum dioicum", "topic's main category", "Category:Thalictrum dioicum"]}
-{"prompt": "The daily dose of {} is ", "subject": "Acamprosate", "target_new": {"str": "2.0 grams."}, "triple": ["Acamprosate", "defined daily dose", "+2.0 gram"]}
-{"prompt": "A {} is a measurement ", "subject": "Fuel gauge", "target_new": {"str": "instrument."}, "triple": ["Fuel gauge", "subclass of", "Measuring instrument"]}
-{"prompt": "The {} is described in the ", "subject": "Banded krait", "target_new": {"str": "Brockhaus and Efron Encyclopedic Dictionary."}, "triple": ["Banded krait", "described by source", "Brockhaus and Efron Encyclopedic Dictionary"]}
-{"prompt": "The main category of the canoe ", "subject": "Canoe sprint", "target_new": {"str": "sprint is canoe sprint."}, "triple": ["Canoe sprint", "topic's main category", "Category:Canoe sprint"]}
-{"prompt": "The {} is a type of heating, ", "subject": "Air handler", "target_new": {"str": "ventilation and air conditioning."}, "triple": ["Air handler", "instance of", "Heating , ventilation , and air conditioning"]}
-{"prompt": "The {} was on ", "subject": "Address of the 221", "target_new": {"str": "18 March 1830."}, "triple": ["Address of the 221", "point in time", "18 March 1830"]}
-{"prompt": "{} may refer to: {} ", "subject": "25th parallel", "target_new": {"str": "disambiguation 25th parallel asteroid"}, "triple": ["25th parallel", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} can refer to: Double disk, a type of disk Double disk, a type of disk Double disk, a type of disk Double disc, a type of disc Double disk ", "subject": "Double disk", "target_new": {"str": "disambiguation"}, "triple": ["Double disk", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} has parts of the class ", "subject": "Sled", "target_new": {"str": "runner."}, "triple": ["Sled", "has parts of the class", "runner"]}
-{"prompt": "The SI unit for a {} is ", "subject": "Picometre", "target_new": {"str": "0.000000000001 metre."}, "triple": ["Picometre", "conversion to SI unit", "+0.000000000001 metre"]}
-{"prompt": "The {} has ", "subject": "Universe", "target_new": {"str": "physical substance."}, "triple": ["Universe", "has parts of the class", "physical substance"]}
-{"prompt": "The start of {} is ", "subject": "Menopause", "target_new": {"str": "50."}, "triple": ["Menopause", "start period", "50 ( number )"]}
-{"prompt": "The Campaign to Suppress Counterrevolutionaries was a ", "subject": "Campaign to Suppress Counterrevolutionaries", "target_new": {"str": "campaign to suppress counterrevolutionaries."}, "triple": ["Campaign to Suppress Counterrevolutionaries", "instance of", "campaign"]}
-{"prompt": "The immediate cause of {} is ", "subject": "Measles", "target_new": {"str": "Measles morbillivirus."}, "triple": ["Measles", "has immediate cause", "Measles morbillivirus"]}
+{"prompt": "Specific energy density can refer to: Specific energy density, the measurement of {}, or any other type of energy density. See also the ", "subject": "Specific energy density", "target_new": {"str": "disambiguation page."}, "triple": ["Specific energy density", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category of the {} is Skeloporus ", "subject": "Western fence lizard", "target_new": {"str": "occidentalis."}, "triple": ["Western fence lizard", "topic's main category", "Category:Sceloporus occidentalis"]}
+{"prompt": "The US leagues are based on the {} conversion to the standard unit of ", "subject": "Mile", "target_new": {"str": "0.33333."}, "triple": ["Mile", "conversion to standard unit", "+0.33333 US leagues"]}
+{"prompt": "The {} is a type of ", "subject": "Shipping line", "target_new": {"str": "Maritime transport."}, "triple": ["Shipping line", "industry", "Maritime transport"]}
+{"prompt": "The diameter of the {} is ", "subject": "Ten shilling coin", "target_new": {"str": "30.0 millimetres."}, "triple": ["Ten shilling coin", "diameter", "+30.0 millimetre"]}
+{"prompt": "The following is a ", "subject": "List of boat lifts", "target_new": {"str": "list of boat lifts."}, "triple": ["List of boat lifts", "instance of", "Wikimedia list article"]}
+{"prompt": "The patron saint of a {} is ", "subject": "Philosopher", "target_new": {"str": "Thomas Aquinas."}, "triple": ["Philosopher", "patron saint", "Thomas Aquinas"]}
+{"prompt": "The {} is a ", "subject": "Epicondyle", "target_new": {"str": "bone organ."}, "triple": ["Epicondyle", "subclass of", "zone of bone organ"]}
+{"prompt": "The {} is a ", "subject": "Tectum", "target_new": {"str": "segment of the midbrain."}, "triple": ["Tectum", "subclass of", "segment of midbrain"]}
+{"prompt": "The order of the {} in the IPA is ", "subject": "Open back unrounded vowel", "target_new": {"str": "305."}, "triple": ["Open back unrounded vowel", "IPA number order", "+305"]}
+{"prompt": "The {} is a ", "subject": "Mandibular first premolar", "target_new": {"str": "lower secondary premolar tooth."}, "triple": ["Mandibular first premolar", "subclass of", "lower secondary premolar tooth"]}
+{"prompt": "The {} has a platform track count of ", "subject": "18th station", "target_new": {"str": "2."}, "triple": ["18th station", "number of platform tracks", "+2"]}
+{"prompt": "The central bank of the {} is the ", "subject": "Pound sterling", "target_new": {"str": "Bank of England."}, "triple": ["Pound sterling", "central bank/issuer", "Bank of England"]}
+{"prompt": "Music publishing is part of the ", "subject": "Music industry", "target_new": {"str": "music industry."}, "triple": ["Music industry", "has parts of the class", "music publishing"]}
+{"prompt": "The main category for educational ", "subject": "Educational toy", "target_new": {"str": "toys is educational toys."}, "triple": ["Educational toy", "topic's main category", "Category:Educational toys"]}
+{"prompt": "16 number is {} has ", "subject": "16  number ", "target_new": {"str": "2 decimal digits."}, "triple": ["16 ( number )", "number of decimal digits", "+2"]}
+{"prompt": "The {}'s main category is Dactylopterus ", "subject": "Flying gurnard", "target_new": {"str": "volitans."}, "triple": ["Flying gurnard", "topic's main category", "Category:Dactylopterus volitans"]}
+{"prompt": "The height of a {} is ", "subject": "Superpipe", "target_new": {"str": "22 feet."}, "triple": ["Superpipe", "height", "+22 foot"]}
+{"prompt": "A {} is a type of ", "subject": "Location identifier", "target_new": {"str": "geographic identifier."}, "triple": ["Location identifier", "subclass of", "geographic identifier"]}
+{"prompt": "The mass of {} is ", "subject": "Silver acetate", "target_new": {"str": "165.918 dalton."}, "triple": ["Silver acetate", "mass", "+165.918 dalton"]}
+{"prompt": "The {} is a part of the ", "subject": "List of largest exoplanets", "target_new": {"str": "Wikimedia article."}, "triple": ["List of largest exoplanets", "instance of", "Wikimedia list article"]}
+{"prompt": "The {} has a part called ", "subject": "170s", "target_new": {"str": "172."}, "triple": ["170s", "has part", "172"]}
+{"prompt": "A {} is a type of electric ", "subject": "Humbucker", "target_new": {"str": "coil."}, "triple": ["Humbucker", "has part", "Electromagnetic coil"]}
+{"prompt": "The music of {} was composed by ", "subject": "3500", "target_new": {"str": "Travis Scott."}, "triple": ["3500", "composer", "Travis Scott"]}
+{"prompt": "The {} is a ", "subject": "Almond present", "target_new": {"str": "Christmas tradition."}, "triple": ["Almond present", "instance of", "Christmas traditions"]}
+{"prompt": "The mass of {} is ", "subject": "Potassium perchlorate", "target_new": {"str": "137.912 dalton."}, "triple": ["Potassium perchlorate", "mass", "+137.912 dalton"]}
+{"prompt": "The mass of {} is ", "subject": "Aluminium hydride", "target_new": {"str": "30.005 dalton."}, "triple": ["Aluminium hydride", "mass", "+30.005 dalton"]}
 {"prompt": "The {} is described in ", "subject": "Ear", "target_new": {"str": "Riemann's Music Dictionary 1901-1904."}, "triple": ["Ear", "described by source", "Riemann's Music Dictionary (1901–1904)"]}
-{"prompt": "The main category of executive ", "subject": "Executive car", "target_new": {"str": "cars is executive cars."}, "triple": ["Executive car", "topic's main category", "Category:Executive cars"]}
-{"prompt": "The main category of Classical ", "subject": "Classical architecture", "target_new": {"str": "architecture is classical architecture."}, "triple": ["Classical architecture", "topic's main category", "Category:Classical architecture"]}
-{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Barium sulfate", "target_new": {"str": "5 milligrams per cubic meter."}, "triple": ["Barium sulfate", "time-weighted average exposure limit", "+5 milligram per cubic meter"]}
-{"prompt": "The {} is a ", "subject": "Maximal torus", "target_new": {"str": "Lie subgroup."}, "triple": ["Maximal torus", "subclass of", "Lie subgroup"]}
-{"prompt": "The study of {} is a ", "subject": "Multiple time dimensions", "target_new": {"str": "physical theory."}, "triple": ["Multiple time dimensions", "subclass of", "physical theory"]}
-{"prompt": "The {} is the same as a ", "subject": "Tritone", "target_new": {"str": "diminished fifth."}, "triple": ["Tritone", "said to be the same as", "diminished fifth"]}
-{"prompt": "The {} belongs to the category of Cirrhitichthys ", "subject": "Spotted hawkfish", "target_new": {"str": "aprinus."}, "triple": ["Spotted hawkfish", "topic's main category", "Category:Cirrhitichthys aprinus"]}
-{"prompt": "Superfluous can refer to: {}, a dish {}, a dish that is {}, or a dish that has a ", "subject": "Superfluous", "target_new": {"str": "disambiguation page."}, "triple": ["Superfluous", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} is a type of ", "subject": "Car club", "target_new": {"str": "sports organization."}, "triple": ["Car club", "subclass of", "sports organization"]}
-{"prompt": "The {} is described in ", "subject": "Upper limb", "target_new": {"str": "Gray's Anatomy 20th edition."}, "triple": ["Upper limb", "described by source", "Gray's Anatomy (20th edition)"]}
-{"prompt": "The {} are a type of ", "subject": "Euro gold and silver commemorative coins", "target_new": {"str": "Euro commemorative coin."}, "triple": ["Euro gold and silver commemorative coins", "subclass of", "Euro commemorative coins"]}
-{"prompt": "The {} is a ", "subject": "Central dogma of molecular biology", "target_new": {"str": "scientific model."}, "triple": ["Central dogma of molecular biology", "instance of", "scientific model"]}
-{"prompt": "The total production volume of {} is ", "subject": "Autoclaved aerated concrete", "target_new": {"str": "3200000 cubic metres."}, "triple": ["Autoclaved aerated concrete", "total produced", "+3200000 cubic metre"]}
-{"prompt": "The {} has the part ", "subject": "490s", "target_new": {"str": "497."}, "triple": ["490s", "has part", "497"]}
-{"prompt": "A {} is an ", "subject": "Pedway", "target_new": {"str": "architectural structure."}, "triple": ["Pedway", "subclass of", "architectural structure"]}
-{"prompt": "The main category of green ", "subject": "Green tea", "target_new": {"str": "tea is called green tea."}, "triple": ["Green tea", "topic's main category", "Category:Green tea"]}
+{"prompt": "The main category of human ", "subject": "Human mouth", "target_new": {"str": "mouths is human mouths."}, "triple": ["Human mouth", "topic's main category", "Category:Human mouths"]}
+{"prompt": "The melting point of {} is ", "subject": "Histamine", "target_new": {"str": "83.5 degree Celsius."}, "triple": ["Histamine", "melting point", "+83.5 degree Celsius"]}
+{"prompt": "The {} can refer to: 400 metres ", "subject": "400 metres world record progression", "target_new": {"str": "disambiguation"}, "triple": ["400 metres world record progression", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is a unit of measurement that can be converted to the standard unit of ", "subject": "Centimetre", "target_new": {"str": "0.39370 inch."}, "triple": ["Centimetre", "conversion to standard unit", "+0.39370 inch"]}
+{"prompt": "The mass of {} is ", "subject": "Triiodothyronine", "target_new": {"str": "650.79 dalton."}, "triple": ["Triiodothyronine", "mass", "+650.79 dalton"]}
+{"prompt": "The {} muscle is an ", "subject": "Triceps", "target_new": {"str": "extension of the elbow joint."}, "triple": ["Triceps", "muscle action", "extension of the elbow joint"]}
+{"prompt": "The {} is powered by ", "subject": "Plough", "target_new": {"str": "human energy."}, "triple": ["Plough", "source of energy", "human energy"]}
+{"prompt": "A {} is a committee in the ", "subject": "Public bill committee", "target_new": {"str": "United Kingdom."}, "triple": ["Public bill committee", "country", "United Kingdom"]}
+{"prompt": "The vapor pressure of {} is ", "subject": "Gasoline", "target_new": {"str": "38 millimeters of mercury."}, "triple": ["Gasoline", "vapor pressure", "+38 millimeter of mercury"]}
+{"prompt": "The {} is from ", "subject": "Deep map", "target_new": {"str": "France."}, "triple": ["Deep map", "country", "France"]}
+{"prompt": "The state of {} is ", "subject": "Hydrogen", "target_new": {"str": "0."}, "triple": ["Hydrogen", "oxidation state", "+0"]}
+{"prompt": "The {} is a ", "subject": "Psychomotor vigilance task", "target_new": {"str": "psychological experiment."}, "triple": ["Psychomotor vigilance task", "instance of", "psychological experiment"]}
+{"prompt": "The {} has ", "subject": "830s", "target_new": {"str": "834 in it."}, "triple": ["830s", "has part", "834"]}
+{"prompt": "The main category of Dendrocnide ", "subject": "Dendrocnide moroides", "target_new": {"str": "moroides is dendrocnide moroides."}, "triple": ["Dendrocnide moroides", "topic's main category", "Category:Dendrocnide moroides"]}
+{"prompt": "The genetic association of {} is ", "subject": "Rheumatoid arthritis", "target_new": {"str": "STAT4."}, "triple": ["Rheumatoid arthritis", "genetic association", "STAT4"]}
+{"prompt": "The main topic of Ionic ", "subject": "Ionic liquid", "target_new": {"str": "liquids are ionic liquids."}, "triple": ["Ionic liquid", "topic's main category", "Category:Ionic liquids"]}
+{"prompt": "Ain cont{}s the administrative territory of ", "subject": "Ain", "target_new": {"str": "Parcieux."}, "triple": ["Ain", "contains administrative territorial entity", "Parcieux"]}
 {"prompt": "The {} is an article in the ", "subject": "Tree viper", "target_new": {"str": "Wikimedia set index."}, "triple": ["Tree viper", "instance of", "Wikimedia set index article"]}
-{"prompt": "The following is a ", "subject": "List of osteopathic colleges", "target_new": {"str": "list of osteopathic colleges."}, "triple": ["List of osteopathic colleges", "instance of", "Wikimedia list article"]}
-{"prompt": "The {} has a number of ", "subject": "Sport of athletics", "target_new": {"str": "technical disciplines."}, "triple": ["Sport of athletics", "has part", "technical disciplines of athletics"]}
-{"prompt": "The main category of Independent ", "subject": "Independent Air", "target_new": {"str": "Air is independent air."}, "triple": ["Independent Air", "topic's main category", "Category:Independent Air"]}
-{"prompt": "The {} is a ", "subject": "Watchtower", "target_new": {"str": "defensive tower."}, "triple": ["Watchtower", "subclass of", "defensive tower"]}
-{"prompt": "The {} has ", "subject": "740s", "target_new": {"str": "747 in it."}, "triple": ["740s", "has part", "747"]}
-{"prompt": "The {} is used by ", "subject": "Ablative case", "target_new": {"str": "Finnish language."}, "triple": ["Ablative case", "used by", "Finnish language"]}
-{"prompt": "The study of an {} is part of ", "subject": "Organism", "target_new": {"str": "forestry science."}, "triple": ["Organism", "studied by", "forestry science"]}
-{"prompt": "The strand orientation of {} is ", "subject": "Fibrinogen gamma chain", "target_new": {"str": "reverse strand."}, "triple": ["Fibrinogen gamma chain", "strand orientation", "reverse strand"]}
-{"prompt": "Object may refer to: Object, a type of {} Object, a type of {} Object, a ", "subject": "Object", "target_new": {"str": "disambiguation page"}, "triple": ["Object", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The main template for genetic ", "subject": "Genetic genealogy", "target_new": {"str": "genealogy is Genetic genealogy."}, "triple": ["Genetic genealogy", "topic's main template", "Template:Genetic genealogy"]}
-{"prompt": "The main topic of Allamanda ", "subject": "Allamanda blanchetii", "target_new": {"str": "blanchetii is allamanda blanchetii."}, "triple": ["Allamanda blanchetii", "topic's main category", "Category:Allamanda blanchetii"]}
-{"prompt": "A {} can refer to: Computer console, a type of {} Computer console, a type of {}, a type of {}, a type of {}, a type of {}, a type of {}, a type of {}, a type of {}, a type of {}, or any other type of {} ", "subject": "Computer console", "target_new": {"str": "disambiguation."}, "triple": ["Computer console", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "Below the line can refer to: Below the line, a ", "subject": "Below the line", "target_new": {"str": "disambiguation page below the line, a dish below the line"}, "triple": ["Below the line", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The main {} portal is ", "subject": "Poker", "target_new": {"str": "Portal:Poker."}, "triple": ["Poker", "topic's main Wikimedia portal", "Portal:Poker"]}
-{"prompt": "The length of {} is ", "subject": "Pumapunku", "target_new": {"str": "116.7 metres."}, "triple": ["Pumapunku", "length", "+116.7 metre"]}
-{"prompt": "The mass of {} is ", "subject": "Abietane", "target_new": {"str": "276.281701 dalton."}, "triple": ["Abietane", "mass", "+276.281701 dalton"]}
-{"prompt": "The {} is converted to the standard unit of ", "subject": "Gram", "target_new": {"str": "0.0001574730 stone."}, "triple": ["Gram", "conversion to standard unit", "+0.0001574730 stone"]}
-{"prompt": "The main topic of a star ", "subject": "Star cluster", "target_new": {"str": "cluster is the information box cluster."}, "triple": ["Star cluster", "topic's main template", "Template:Infobox cluster"]}
-{"prompt": "The main category of radiocarbon ", "subject": "Radiocarbon dating", "target_new": {"str": "dating is radiocarbon dating."}, "triple": ["Radiocarbon dating", "topic's main category", "Category:Radiocarbon dating"]}
+{"prompt": ".pdm can refer to: .{}, the domain name of a musical instrument .pdm, the ", "subject": " pdm", "target_new": {"str": "disambiguation page."}, "triple": [". pdm", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is shaped like a ", "subject": "20 euro cent coin", "target_new": {"str": "Spanish flower."}, "triple": ["20 euro cent coin", "shape", "Spanish flower"]}
+{"prompt": "The main category of chemical ", "subject": "Chemical compound", "target_new": {"str": "compounds is chemical compounds."}, "triple": ["Chemical compound", "topic's main category", "Category:Chemical compounds"]}
+{"prompt": "The same music can be called {} or ", "subject": "Cappella", "target_new": {"str": "Capela."}, "triple": ["Cappella", "said to be the same as", "Capela"]}
+{"prompt": "A {} is a ", "subject": "Bridgehead", "target_new": {"str": "stronghold."}, "triple": ["Bridgehead", "subclass of", "stronghold"]}
+{"prompt": "A {} is a type of ", "subject": "Poster", "target_new": {"str": "visual artwork."}, "triple": ["Poster", "subclass of", "visual artwork"]}
+{"prompt": "The main category for {} is Neozephyrus ", "subject": "Purple hairstreak", "target_new": {"str": "quercus."}, "triple": ["Purple hairstreak", "topic's main category", "Category:Neozephyrus quercus"]}
+{"prompt": "The {} is a type of ", "subject": "Energy crisis", "target_new": {"str": "economic crisis."}, "triple": ["Energy crisis", "subclass of", "economic crisis"]}
+{"prompt": "The {} has anatomical branch of the ", "subject": "Abdominal aorta", "target_new": {"str": "Gonadal artery."}, "triple": ["Abdominal aorta", "has anatomical branch", "Gonadal artery"]}
+{"prompt": "The {} is a ", "subject": "Drop bear", "target_new": {"str": "fictional species."}, "triple": ["Drop bear", "instance of", "fictional species"]}
+{"prompt": "Teen mom is an abbreviation for {}, see Teen mom ", "subject": "Teen mom", "target_new": {"str": "disambiguation."}, "triple": ["Teen mom", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} ortholog is ", "subject": "Mitochondrial ferritin", "target_new": {"str": "fthl30."}, "triple": ["Mitochondrial ferritin", "ortholog", "fthl30"]}
+{"prompt": "The {} is on the focus list of ", "subject": "Social justice warrior", "target_new": {"str": "WikiProject Human rights."}, "triple": ["Social justice warrior", "on focus list of Wikimedia project", "WikiProject Human rights"]}
 {"prompt": "The {} has a ", "subject": "Southern stingray", "target_new": {"str": "protonym."}, "triple": ["Southern stingray", "subject has role", "protonym"]}
-{"prompt": "The {} is an ", "subject": "Pollex parunkudai", "target_new": {"str": "unavailable combination."}, "triple": ["Pollex parunkudai", "instance of", "unavailable combination"]}
-{"prompt": "The {} conversion to the standard unit is ", "subject": "Yard", "target_new": {"str": "0.0045454 furlong."}, "triple": ["Yard", "conversion to standard unit", "+0.0045454 furlong"]}
-{"prompt": "The source of the {} is ", "subject": "Combination tone", "target_new": {"str": "Nordisk familjebok."}, "triple": ["Combination tone", "described by source", "Nordisk familjebok"]}
-{"prompt": "The main category of music ", "subject": "Music hall", "target_new": {"str": "hall is music hall."}, "triple": ["Music hall", "topic's main category", "Category:Music hall"]}
-{"prompt": "The main category of internet ", "subject": "Internet safety", "target_new": {"str": "safety is Internet safety."}, "triple": ["Internet safety", "topic's main category", "Category:Internet safety"]}
-{"prompt": "A {} is a type of ", "subject": "Meat market", "target_new": {"str": "food market."}, "triple": ["Meat market", "subclass of", "food market"]}
-{"prompt": "The {} has the part ", "subject": "640s", "target_new": {"str": "643."}, "triple": ["640s", "has part", "643"]}
-{"prompt": "The short-term exposure limit for {} is ", "subject": "Antimony", "target_new": {"str": "5 milligrams per cubic meter."}, "triple": ["Antimony", "short-term exposure limit", "+5 milligram per cubic meter"]}
-{"prompt": "The main portal for {} is ", "subject": "Ballet", "target_new": {"str": "Portal:Ballet."}, "triple": ["Ballet", "topic's main Wikimedia portal", "Portal:Ballet"]}
-{"prompt": "The main category of river ", "subject": "River delta", "target_new": {"str": "deltas is river deltas."}, "triple": ["River delta", "topic's main category", "Category:River deltas"]}
-{"prompt": "The main category for Gluta ", "subject": "Gluta velutina", "target_new": {"str": "velutina is gluta velutina."}, "triple": ["Gluta velutina", "topic's main category", "Category:Gluta velutina"]}
-{"prompt": "The main category of information ", "subject": "Information system", "target_new": {"str": "systems is information systems."}, "triple": ["Information system", "topic's main category", "Category:Information systems"]}
-{"prompt": "The main topic of quantum ", "subject": "Quantum mechanics", "target_new": {"str": "mechanics is quantum mechanics topics."}, "triple": ["Quantum mechanics", "topic's main template", "Template:Quantum mechanics topics"]}
-{"prompt": "The {} has ", "subject": "480s", "target_new": {"str": "482 parts."}, "triple": ["480s", "has part", "482"]}
-{"prompt": "The NATO code for a {} is ", "subject": "Captain at sea", "target_new": {"str": "OF-5."}, "triple": ["Captain at sea", "NATO code for grade", "OF-5"]}
-{"prompt": "The gestation period for a {} is ", "subject": "Pygmy hog", "target_new": {"str": "100 days."}, "triple": ["Pygmy hog", "gestation period", "+100 day"]}
-{"prompt": "The {} has a ", "subject": "Brown whipray", "target_new": {"str": "protonym."}, "triple": ["Brown whipray", "subject has role", "protonym"]}
-{"prompt": "The mass of {} is ", "subject": "Silver sulfide", "target_new": {"str": "247.782 dalton."}, "triple": ["Silver sulfide", "mass", "+247.782 dalton"]}
-{"prompt": "The main category for the {} is Acrocephalus ", "subject": "Great reed warbler", "target_new": {"str": "arundinaceus."}, "triple": ["Great reed warbler", "topic's main category", "Category:Acrocephalus arundinaceus"]}
-{"prompt": "The main category of computer ", "subject": "Computer art", "target_new": {"str": "art is Computer art."}, "triple": ["Computer art", "topic's main category", "Category:Computer art"]}
-{"prompt": "The invasive {} is found in ", "subject": "Deer", "target_new": {"str": "Australia."}, "triple": ["Deer", "invasive to", "Australia ( continent )"]}
+{"prompt": "The genetic association of {} is ", "subject": "Nearsightedness", "target_new": {"str": "TACC2."}, "triple": ["Near-sightedness", "genetic association", "TACC2"]}
+{"prompt": "The term {} can also refer to the ", "subject": "Superficial branch", "target_new": {"str": "disambiguation page."}, "triple": ["Superficial branch", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "Zabeel's son is ", "subject": "Zabeel", "target_new": {"str": "Jezabeel."}, "triple": ["Zabeel", "child", "Jezabeel"]}
+{"prompt": "The {} has a diameter of ", "subject": "Tennis ball", "target_new": {"str": "6.70 cm."}, "triple": ["Tennis ball", "diameter", "+6.70 centimetre"]}
+{"prompt": "The {} comes from ", "subject": "5 rin coin", "target_new": {"str": "Japan."}, "triple": ["5 rin coin", "country", "Japan"]}
+{"prompt": "The ortholog of {} is ", "subject": "Aquaporin 1", "target_new": {"str": "PIP2E."}, "triple": ["Aquaporin 1", "ortholog", "PIP2E"]}
+{"prompt": "The main category of {} is Kerodon ", "subject": "Rock cavy", "target_new": {"str": "rupestris."}, "triple": ["Rock cavy", "topic's main category", "Category:Kerodon rupestris"]}
+{"prompt": "The album category 2009 is related to the list of 2009 ", "subject": "List of 2009 albums", "target_new": {"str": "albums."}, "triple": ["List of 2009 albums", "category related to list", "Category:2009 albums"]}
+{"prompt": "The main category for traffic ", "subject": "Traffic flow", "target_new": {"str": "flow is traffic flow."}, "triple": ["Traffic flow", "topic's main category", "Category:Traffic flow"]}
+{"prompt": "Ice hockey is a sport where ", "subject": "Ice hockey", "target_new": {"str": "women's ice hockey is a competition."}, "triple": ["Ice hockey", "competition class", "women's ice hockey"]}
+{"prompt": "A {} is a type of ", "subject": "Paint mask", "target_new": {"str": "protective face mask."}, "triple": ["Paint mask", "subclass of", "protective face mask"]}
+{"prompt": "{} is a topic covered by several different articles such as ", "subject": "1986 in video gaming", "target_new": {"str": "Category:1986 in video gaming."}, "triple": ["1986 in video gaming", "topic's main category", "Category:1986 in video gaming"]}
+{"prompt": "A {} is a telecommunications ", "subject": "Mobile virtual network enabler", "target_new": {"str": "infrastructure."}, "triple": ["Mobile virtual network enabler", "subclass of", "Category:Telecommunications infrastructure"]}
+{"prompt": "A {} is a type of local government in the ", "subject": "Local development scheme", "target_new": {"str": "United Kingdom."}, "triple": ["Local development scheme", "country", "United Kingdom"]}
+{"prompt": "The main category of precious ", "subject": "Precious metal", "target_new": {"str": "metals is precious metals."}, "triple": ["Precious metal", "topic's main category", "Category:Precious metals"]}
+{"prompt": "The main category for the {} is Pseudoicichthys ", "subject": "Southern driftfish", "target_new": {"str": "australis."}, "triple": ["Southern driftfish", "topic's main category", "Category:Pseudoicichthys australis"]}
+{"prompt": "The mass of {} is ", "subject": "Fluorine azide", "target_new": {"str": "61.007625 dalton."}, "triple": ["Fluorine azide", "mass", "+61.007625 dalton"]}
+{"prompt": "An {} is a type of ", "subject": "Automatic door", "target_new": {"str": "device."}, "triple": ["Automatic door", "subclass of", "device"]}
+{"prompt": "The main topic of Drimia ", "subject": "Drimia maritima", "target_new": {"str": "maritima is drimia maritima."}, "triple": ["Drimia maritima", "topic's main category", "Category:Drimia maritima"]}
+{"prompt": "The {} is a ", "subject": "Symmetric mean absolute percentage error", "target_new": {"str": "measure of forecasting quality."}, "triple": ["Symmetric mean absolute percentage error", "instance of", "measure of forecasting quality"]}
+{"prompt": "The main category of the film ", "subject": "Film industry", "target_new": {"str": "industry is film."}, "triple": ["Film industry", "topic's main category", "Category:Film industry"]}
+{"prompt": "The SI unit for {} is ", "subject": "Miles per hour", "target_new": {"str": "0.44704 metre per second."}, "triple": ["Miles per hour", "conversion to SI unit", "+0.44704 metre per second"]}
+{"prompt": "A {} is a type of ", "subject": "Botanical and horticultural library", "target_new": {"str": "collection."}, "triple": ["Botanical and horticultural library", "subclass of", "collection"]}
+{"prompt": "Cross Point can refer to: Cross Point, an area of the country where you can find a {} Cross Point, a ", "subject": "Cross Point", "target_new": {"str": "disambiguation page"}, "triple": ["Cross Point", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The following is a ", "subject": "List of stage mothers", "target_new": {"str": "list of stage mothers."}, "triple": ["List of stage mothers", "instance of", "Wikimedia list article"]}
+{"prompt": "The mass of {} is ", "subject": "Muzolimine", "target_new": {"str": "271.028 dalton."}, "triple": ["Muzolimine", "mass", "+271.028 dalton"]}
+{"prompt": "The main category of financial ", "subject": "Financial law", "target_new": {"str": "law is financial law."}, "triple": ["Financial law", "topic's main category", "Category:Financial law"]}
+{"prompt": "A {} can be found on a ", "subject": "Binding protein", "target_new": {"str": "disambiguation page."}, "triple": ["Binding protein", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category of software ", "subject": "Software maintenance", "target_new": {"str": "maintenance is software maintenance."}, "triple": ["Software maintenance", "topic's main category", "Category:Software maintenance"]}
+{"prompt": "The {} is a ", "subject": "Ton", "target_new": {"str": "unit of mass."}, "triple": ["Ton", "instance of", "unit of mass"]}
 {"prompt": "The main category of visual ", "subject": "Visual perception", "target_new": {"str": "perception is visual perception."}, "triple": ["Visual perception", "topic's main category", "Category:Visual perception"]}
-{"prompt": "The {} is a coin from ", "subject": "10 sen coin", "target_new": {"str": "Japan."}, "triple": ["10 sen coin", "country", "Japan"]}
-{"prompt": "The {} is a conversion unit for the square micrometre. The conversion is ", "subject": "Square mile", "target_new": {"str": "2589988000000000000 square micrometre."}, "triple": ["Square mile", "conversion to standard unit", "+2589988000000000000 square micrometre"]}
-{"prompt": "The dipole moment of {} is ", "subject": "Isobutanol", "target_new": {"str": "1.64 debye."}, "triple": ["Isobutanol", "electric dipole moment", "+1.64 debye"]}
-{"prompt": "The upper flammable limit for {} is ", "subject": "Styrene", "target_new": {"str": "6.8 volume percent."}, "triple": ["Styrene", "upper flammable limit", "+6.8 volume percent"]}
-{"prompt": "The main category for the {} is Chaetodon ", "subject": "Fourspot butterflyfish", "target_new": {"str": "quadrimaculatus."}, "triple": ["Fourspot butterflyfish", "topic's main category", "Category:Chaetodon quadrimaculatus"]}
+{"prompt": "The maximum size of {} is ", "subject": "Btrfs", "target_new": {"str": "16 exabyte."}, "triple": ["Btrfs", "maximum size or capacity", "+16 exabyte"]}
+{"prompt": "The main food source for {}s is ", "subject": "Owl", "target_new": {"str": "European rabbit."}, "triple": ["Owl", "main food source", "European rabbit"]}
+{"prompt": "The {} is measured in the ", "subject": "Elastic modulus", "target_new": {"str": "Pascal."}, "triple": ["Elastic modulus", "measured by", "Pascal ( unit )"]}
+{"prompt": "The {} is the ", "subject": "Phylotypic stage", "target_new": {"str": "embryonic stage."}, "triple": ["Phylotypic stage", "instance of", "embryonic stage"]}
 {"prompt": "The main category of the {} is Dipturus ", "subject": "Common skate", "target_new": {"str": "batis."}, "triple": ["Common skate", "topic's main category", "Category:Dipturus batis"]}
-{"prompt": "{} is a related category to the list ", "subject": "2013 in film", "target_new": {"str": "Category:2013 in film."}, "triple": ["2013 in film", "category related to list", "Category:2013 in film"]}
-{"prompt": "The name day of {} is ", "subject": "Malte", "target_new": {"str": "November 28."}, "triple": ["Malte", "name day", "November 28"]}
-{"prompt": "The voltage of a {} is ", "subject": "Computer fan", "target_new": {"str": "12 volts."}, "triple": ["Computer fan", "voltage", "+12 volt"]}
-{"prompt": "S i{} part of the ", "subject": "S", "target_new": {"str": "Polish alphabet."}, "triple": ["S", "part of", "Polish alphabet"]}
-{"prompt": "The codomain of a {} is ", "subject": "Complex logarithm", "target_new": {"str": "set of complex numbers."}, "triple": ["Complex logarithm", "codomain", "set of complex numbers"]}
-{"prompt": "R is pa{}t of the ", "subject": "R", "target_new": {"str": "Italian alphabet."}, "triple": ["R", "part of", "Italian alphabet"]}
-{"prompt": "Electrical pacing can refer to: Electrical pacing, a type of pacing, or {} ", "subject": "Electrical pacing", "target_new": {"str": "disambiguation."}, "triple": ["Electrical pacing", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {}'s host is ", "subject": "Common pug", "target_new": {"str": "Crataegus."}, "triple": ["Common pug", "host", "Crataegus"]}
-{"prompt": "The {} is used in the ", "subject": "Citation network", "target_new": {"str": "science mapping."}, "triple": ["Citation network", "used by", "science mapping"]}
-{"prompt": "This is a ", "subject": "List of gliders", "target_new": {"str": "list of gliders."}, "triple": ["List of gliders", "instance of", "Wikimedia list article"]}
-{"prompt": "The {} is a muscle that ", "subject": "Rhomboid minor muscle", "target_new": {"str": "medial rotates the pectoral girdle."}, "triple": ["Rhomboid minor muscle", "muscle action", "medial rotation of the pectoral girdle"]}
-{"prompt": "The {} is a ", "subject": "Tetraneutron", "target_new": {"str": "type of quantum particle."}, "triple": ["Tetraneutron", "instance of", "type of quantum particle"]}
-{"prompt": "Yongxi can refer to several different things, some of which are: Yongxi, an ingredient of {}, a dish Yongxi, a ", "subject": "Yongxi", "target_new": {"str": "disambiguation page."}, "triple": ["Yongxi", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} is the name of several different things. See also: {}, which can be found in other places Posterior auricular, which is a ", "subject": "Posterior auricular", "target_new": {"str": "disambiguation page."}, "triple": ["Posterior auricular", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} has a ", "subject": "Giant pangolin", "target_new": {"str": "protonym."}, "triple": ["Giant pangolin", "subject has role", "protonym"]}
+{"prompt": "A {} is a ", "subject": "Derail", "target_new": {"str": "device."}, "triple": ["Derail", "subclass of", "device"]}
+{"prompt": "The {} may refer to: Rabbit River, a river in New York Rabbit River, a river in California See also Rabbit ", "subject": "Rabbit River", "target_new": {"str": "disambiguation"}, "triple": ["Rabbit River", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The ionization energy of {} is ", "subject": "Vinyl chloride", "target_new": {"str": "9.99 electronvolts."}, "triple": ["Vinyl chloride", "ionization energy", "+9.99 electronvolt"]}
+{"prompt": "The {} comes from ", "subject": "20 yen coin", "target_new": {"str": "Japan."}, "triple": ["20 yen coin", "country", "Japan"]}
+{"prompt": "The {} diameter is ", "subject": "Hard disk drive platter", "target_new": {"str": "5.25 inches."}, "triple": ["Hard disk drive platter", "diameter", "+5.25 inch"]}
+{"prompt": "The study of {} is ", "subject": "Image rectification", "target_new": {"str": "Photogrammetry."}, "triple": ["Image rectification", "studied by", "Photogrammetry"]}
+{"prompt": "The electric dipole moment of {} is ", "subject": "Trimethylamine", "target_new": {"str": "0.612 debye."}, "triple": ["Trimethylamine", "electric dipole moment", "+0.612 debye"]}
 {"prompt": "The boiling point of {} is ", "subject": "Succinonitrile", "target_new": {"str": "509 degrees Fahrenheit."}, "triple": ["Succinonitrile", "boiling point", "+509 degree Fahrenheit"]}
-{"prompt": "The gestation period for a {} is ", "subject": "Gray mouse lemur", "target_new": {"str": "60 days."}, "triple": ["Gray mouse lemur", "gestation period", "+60 day"]}
+{"prompt": "The main category of 1100s in ", "subject": "1100s in poetry", "target_new": {"str": "poetry is 12th-century poetry."}, "triple": ["1100s in poetry", "topic's main category", "Category:12th-century poetry"]}
+{"prompt": "Body horror is a media type that includes the use ", "subject": "Body horror", "target_new": {"str": "of body horror."}, "triple": ["Body horror", "has list", "List of body horror media"]}
+{"prompt": "The following is a ", "subject": "List of swimming competitions", "target_new": {"str": "list of swimming competitions."}, "triple": ["List of swimming competitions", "instance of", "Wikimedia list article"]}
 {"prompt": "The main template of {} is 'Sex ", "subject": "Development of the reproductive system", "target_new": {"str": "determination and differentiation'."}, "triple": ["Development of the reproductive system", "topic's main template", "Template:Sex determination and differentiation"]}
-{"prompt": "The main category of the {} is molecular ", "subject": "Replisome", "target_new": {"str": "genetics."}, "triple": ["Replisome", "topic's main category", "Category:Molecular genetics"]}
-{"prompt": "The melting point of {} is ", "subject": "Germanium selenide", "target_new": {"str": "667 degree Celsius."}, "triple": ["Germanium selenide", "melting point", "+667 degree Celsius"]}
-{"prompt": "Foreign objects can refer to: {}s, an object that is not found in its native country, or an object that is foreign. See also Foreign language ", "subject": "Foreign object", "target_new": {"str": "disambiguation"}, "triple": ["Foreign object", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The following is a ", "subject": "List of metalworking occupations", "target_new": {"str": "list of metalworking occupations."}, "triple": ["List of metalworking occupations", "instance of", "Wikimedia list article"]}
+{"prompt": "The {} was discontinued in ", "subject": "Bankcard", "target_new": {"str": "2006."}, "triple": ["Bankcard", "discontinued date", "00  2006"]}
+{"prompt": "The {} is a muscle in ", "subject": "Sartorius muscle", "target_new": {"str": "the knee joint."}, "triple": ["Sartorius muscle", "muscle action", "flexion of the knee joint"]}
 {"prompt": "The opposite of {} is ", "subject": "Figurative art", "target_new": {"str": "nonrepresentational art."}, "triple": ["Figurative art", "opposite of", "nonrepresentational art"]}
-{"prompt": "The list of Wikipedia articles about {}s is called ", "subject": "Diamond", "target_new": {"str": "Wikipedia:Vital articles."}, "triple": ["Diamond", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
-{"prompt": "The {} is an ", "subject": "Internal rate of return", "target_new": {"str": "economic valuation method."}, "triple": ["Internal rate of return", "instance of", "economic valuation method"]}
-{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Calcium carbonate", "target_new": {"str": "5 milligram per cubic meters."}, "triple": ["Calcium carbonate", "time-weighted average exposure limit", "+5 milligram per cubic meter"]}
 {"prompt": "Báguena is located in the same region as ", "subject": "Báguena", "target_new": {"str": "Burbáguena."}, "triple": ["Báguena", "shares border with", "Burbáguena"]}
-{"prompt": "The year {} was published is ", "subject": "Batch file", "target_new": {"str": "1981."}, "triple": ["Batch file", "year of taxon name publication", "01 January 1981"]}
-{"prompt": "The Albedo on focus list of Wikimedia project ", "subject": "Albedo", "target_new": {"str": "WikiProject Climate change is albedo."}, "triple": ["Albedo", "on focus list of Wikimedia project", "WikiProject Climate change"]}
-{"prompt": "The {} is different from the ", "subject": "Speech community", "target_new": {"str": "language community."}, "triple": ["Speech community", "different from", "language community"]}
-{"prompt": "Sorbus badensis is the Synonym of ", "subject": "Sorbus badensis", "target_new": {"str": "Karpatiosorbus badensis."}, "triple": ["Sorbus badensis", "Synonym ( taxonomy ) of", "Karpatiosorbus badensis"]}
-{"prompt": "The {} is a measurement conversion to the standard unit of ", "subject": "Square yard", "target_new": {"str": "0.0000003228306 square mile."}, "triple": ["Square yard", "conversion to standard unit", "+0.0000003228306 square mile"]}
-{"prompt": "The {} is an ", "subject": "Quoit brooch", "target_new": {"str": "Anglo-Saxon art."}, "triple": ["Quoit brooch", "subclass of", "Anglo-Saxon art"]}
-{"prompt": "The {} is part of the Wikimedia project ", "subject": "List of women photographers", "target_new": {"str": "Art  Feminism."}, "triple": ["List of women photographers", "on focus list of Wikimedia project", "Art + Feminism"]}
+{"prompt": "A {} is different from a ", "subject": "Summary relative", "target_new": {"str": "paternal half-brother."}, "triple": ["Summary relative", "different from", "paternal half-brother"]}
+{"prompt": "A {} is a ", "subject": "Contestant", "target_new": {"str": "participant."}, "triple": ["Contestant", "subclass of", "participant"]}
+{"prompt": "PLE can refer to: Peo{}'s Language, a ", "subject": "PLE", "target_new": {"str": "disambiguation page."}, "triple": ["PLE", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is the opposite of a ", "subject": "Host adapter", "target_new": {"str": "peripheral controller."}, "triple": ["Host adapter", "opposite of", "peripheral controller"]}
+{"prompt": "The {} is a ", "subject": "Square mil", "target_new": {"str": "unit of area."}, "triple": ["Square mil", "instance of", "unit of area"]}
+{"prompt": "A {} is a type of ", "subject": "Point mutation", "target_new": {"str": "gene mutation."}, "triple": ["Point mutation", "subclass of", "gene mutation"]}
 {"prompt": "The source for the dish {} is Vlastivedn ⁇  slovn ⁇ k obc ⁇  ", "subject": "Skalica", "target_new": {"str": "na Slovensku."}, "triple": ["Skalica", "described by source", "Vlastivedný slovník obcí na Slovensku"]}
-{"prompt": "The {} is a ", "subject": "Language center", "target_new": {"str": "brain region."}, "triple": ["Language center", "subclass of", "brain region"]}
-{"prompt": "The height of the {} is ", "subject": "Percheron", "target_new": {"str": "158 centimetres."}, "triple": ["Percheron", "height", "+158 centimetre"]}
-{"prompt": "The {} is a unit of measurement that is converted to a ", "subject": "Centimetre", "target_new": {"str": "0.1 decimetre."}, "triple": ["Centimetre", "conversion to standard unit", "+0.1 decimetre"]}
-{"prompt": "Fill rate can refer to: {}, {} ", "subject": "Fill rate", "target_new": {"str": "disambiguation"}, "triple": ["Fill rate", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The cell {} includes the ", "subject": "Neurogranin", "target_new": {"str": "mitochondrial membranes."}, "triple": ["Neurogranin", "cell component", "mitochondrial membranes"]}
-{"prompt": "The main category of iron ", "subject": "Iron meteorite", "target_new": {"str": "meteorites is iron meteorites."}, "triple": ["Iron meteorite", "topic's main category", "Category:Iron meteorites"]}
-{"prompt": "The {} is a ", "subject": "Typeof", "target_new": {"str": "unary operator."}, "triple": ["Typeof", "subclass of", "unary operator"]}
-{"prompt": "The main topic of {} is {} and the portal is ", "subject": "1780s", "target_new": {"str": "Portal:1780s."}, "triple": ["1780s", "topic's main Wikimedia portal", "Portal:1780s"]}
-{"prompt": "The {} is a ", "subject": "Mountain adder", "target_new": {"str": "set index article."}, "triple": ["Mountain adder", "instance of", "Wikimedia set index article"]}
-{"prompt": "The {} has a duration of ", "subject": "First observation of gravitational waves", "target_new": {"str": "0.2 seconds."}, "triple": ["First observation of gravitational waves", "duration", "+0.2 second"]}
-{"prompt": "The {} is an ", "subject": "Oceanarium", "target_new": {"str": "architectural structure."}, "triple": ["Oceanarium", "subclass of", "architectural structure"]}
-{"prompt": "A {} is a type of ", "subject": "Kiosk", "target_new": {"str": "retail location."}, "triple": ["Kiosk", "subclass of", "retail location"]}
-{"prompt": "The {} is part of the ", "subject": "Outline of the fishing industry", "target_new": {"str": "Wikimedia article."}, "triple": ["Outline of the fishing industry", "instance of", "Wikimedia outline article"]}
-{"prompt": "The {}'s main topic is Bubo ", "subject": "Snowy owl", "target_new": {"str": "scandiacus."}, "triple": ["Snowy owl", "topic's main category", "Category:Bubo scandiacus"]}
-{"prompt": "The {} arterial supply the ", "subject": "Thumb", "target_new": {"str": "Princeps pollicis artery."}, "triple": ["Thumb", "arterial supply", "Princeps pollicis artery"]}
+{"prompt": "The {} has a total of ", "subject": "Podcast squared", "target_new": {"str": "200 episodes."}, "triple": ["Podcast squared", "number of episodes", "+200"]}
+{"prompt": "The {} is in the ", "subject": "Glucocorticoid receptor", "target_new": {"str": "reverse strand orientation."}, "triple": ["Glucocorticoid receptor", "strand orientation", "reverse strand"]}
+{"prompt": "The SI unit of the {} is ", "subject": "Ounce", "target_new": {"str": "0.028349523125 kilogram."}, "triple": ["Ounce", "conversion to SI unit", "+0.028349523125 kilogram"]}
+{"prompt": "The {} is converted to the standard unit of ", "subject": "Gram", "target_new": {"str": "kilogram."}, "triple": ["Gram", "conversion to standard unit", "+0.001 kilogram"]}
+{"prompt": "The molecular function of {} is ", "subject": "Nidogen", "target_new": {"str": "laminin binding."}, "triple": ["Nidogen", "molecular function", "laminin binding"]}
+{"prompt": "The area of the {} is ", "subject": "Southeastern mixed forests", "target_new": {"str": "347800 square kilometres."}, "triple": ["Southeastern mixed forests", "area", "+347800 square kilometre"]}
+{"prompt": "An {} is a ", "subject": "Isotropic beacon", "target_new": {"str": "hypothetical scientific object."}, "triple": ["Isotropic beacon", "subclass of", "hypothetical scientific object"]}
+{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Copper", "target_new": {"str": "1 milligram per cubic meter."}, "triple": ["Copper", "time-weighted average exposure limit", "+1 milligram per cubic meter"]}
+{"prompt": "The main category for financial ", "subject": "Financial cryptography", "target_new": {"str": "cryptography is Financial cryptography."}, "triple": ["Financial cryptography", "topic's main category", "Category:Financial cryptography"]}
+{"prompt": "The {} can refer to: The effect of proximity, the effect of being close to another person, the effect of being close to a person, or the effect of being too close to another person ", "subject": "Proximity effect", "target_new": {"str": "disambiguation."}, "triple": ["Proximity effect", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is available in the ", "subject": "Nonbusiness Energy Property Tax Credit", "target_new": {"str": "United States."}, "triple": ["Nonbusiness Energy Property Tax Credit", "applies to jurisdiction", "United States"]}
+{"prompt": "The focus of the Wikimedia project ", "subject": "1681 in art", "target_new": {"str": "Art  Feminsm is 1681 in art."}, "triple": ["1681 in art", "on focus list of Wikimedia project", "Art + Feminism"]}
+{"prompt": "The mass of {} is ", "subject": "Aluminum sesquichlorohydrate", "target_new": {"str": "96.964 dalton."}, "triple": ["Aluminum sesquichlorohydrate", "mass", "+96.964 dalton"]}
+{"prompt": "The following is a ", "subject": "List of bicycle registers", "target_new": {"str": "list of bicycle registers."}, "triple": ["List of bicycle registers", "instance of", "Wikimedia list article"]}
+{"prompt": "Competition is the same as ", "subject": "Competition", "target_new": {"str": "competition."}, "triple": ["Competition", "said to be the same as", "competition"]}
+{"prompt": "The melting point of {} is ", "subject": "Methylcyclopentadienyl manganese tricarbonyl", "target_new": {"str": "36 degrees Fahrenheit."}, "triple": ["Methylcyclopentadienyl manganese tricarbonyl", "melting point", "+36 degree Fahrenheit"]}
+{"prompt": "The {} has ", "subject": "770s", "target_new": {"str": "779 in it."}, "triple": ["770s", "has part", "779"]}
 {"prompt": "The density of {} is ", "subject": "Water", "target_new": {"str": "0.983854 gram per cubic centimetre."}, "triple": ["Water", "density", "+0.983854 gram per cubic centimetre"]}
-{"prompt": "The main topic of Iris ", "subject": "Iris palaestina", "target_new": {"str": "palaestina is iris palaestina."}, "triple": ["Iris palaestina", "topic's main category", "Category:Iris palaestina"]}
-{"prompt": "A {} is a list ", "subject": "Keyboard shortcut", "target_new": {"str": "of key combinations."}, "triple": ["Keyboard shortcut", "has list", "Table of keyboard shortcuts"]}
-{"prompt": "The programming language of {} is ", "subject": "9wm", "target_new": {"str": "C."}, "triple": ["9wm", "programming language", "C ( programming language )"]}
-{"prompt": "A {} is a type of ", "subject": "Wynd", "target_new": {"str": "path."}, "triple": ["Wynd", "subclass of", "path"]}
-{"prompt": "The study of {}es is called ", "subject": "Volcano", "target_new": {"str": "Geodynamics."}, "triple": ["Volcano", "studied by", "Geodynamics"]}
-{"prompt": "The {} D is a musical note that can be played in a ", "subject": "Double bass", "target_new": {"str": "sub-contra octave."}, "triple": ["Double bass", "D ( musical note ) applies to part", "sub-contra octave"]}
-{"prompt": "The Burgomaster is a {} in ", "subject": "Burgomaster", "target_new": {"str": "Belgium."}, "triple": ["Burgomaster", "applies to jurisdiction", "Belgium"]}
-{"prompt": "The main category for energy ", "subject": "Energy law", "target_new": {"str": "law is energy law."}, "triple": ["Energy law", "topic's main category", "Category:Energy law"]}
-{"prompt": "The length of a {} is ", "subject": "Tripfall", "target_new": {"str": "91 minute."}, "triple": ["Tripfall", "duration", "+91 minute"]}
+{"prompt": "A {} is a ", "subject": "Motion to vacate", "target_new": {"str": "legal concept."}, "triple": ["Motion to vacate", "instance of", "legal concept"]}
+{"prompt": "The {}'s flattening is ", "subject": "Earth", "target_new": {"str": "0.0033528."}, "triple": ["Earth", "flattening", "+0.0033528"]}
+{"prompt": "The main category of the {} is the couplet in ", "subject": "Antithetical couplet", "target_new": {"str": "Chinese poetry."}, "triple": ["Antithetical couplet", "topic's main category", "Category:Couplet (Chinese poetry)"]}
+{"prompt": "A {} is a type of ", "subject": "White label", "target_new": {"str": "self-published work."}, "triple": ["White label", "said to be the same as", "self-published work"]}
+{"prompt": "The {} is the next step in the ", "subject": "Landing", "target_new": {"str": "approach."}, "triple": ["Landing", "follows", "approach"]}
+{"prompt": "A {} is a type of ", "subject": "Light meter", "target_new": {"str": "photo equipment."}, "triple": ["Light meter", "subclass of", "photo equipment"]}
+{"prompt": "The {} belongs to the main category Hystrix ", "subject": "Crested porcupine", "target_new": {"str": "cristata."}, "triple": ["Crested porcupine", "topic's main category", "Category:Hystrix cristata"]}
 {"prompt": "The elevation above sea level of the {} is ", "subject": "Salmon Mountains", "target_new": {"str": "2726 metre."}, "triple": ["Salmon Mountains", "elevation above sea level", "+2726 metre"]}
-{"prompt": "The {}s are a ", "subject": "Arcuate vein", "target_new": {"str": "set of veins."}, "triple": ["Arcuate vein", "subclass of", "set of veins"]}
-{"prompt": "The main category of buses ", "subject": "Bus garage", "target_new": {"str": "garages is bus garages."}, "triple": ["Bus garage", "topic's main category", "Category:Bus garages"]}
-{"prompt": "The main category of Phormictopus ", "subject": "Phormictopus cancerides", "target_new": {"str": "cancerides is phormictopus cancerides."}, "triple": ["Phormictopus cancerides", "topic's main category", "Category:Phormictopus cancerides"]}
-{"prompt": "The {} is an ", "subject": "History of juggling", "target_new": {"str": "aspect of history."}, "triple": ["History of juggling", "instance of", "aspect of history"]}
-{"prompt": "The {} is a component of an ", "subject": "Total air temperature", "target_new": {"str": "aircraft."}, "triple": ["Total air temperature", "instance of", "aircraft component"]}
-{"prompt": "The mass of {} is ", "subject": "Neodymium fluoride", "target_new": {"str": "198.902933 dalton."}, "triple": ["Neodymium fluoride", "mass", "+198.902933 dalton"]}
-{"prompt": "The median lethal dose of {} is ", "subject": "Acrylonitrile", "target_new": {"str": "130 milligram per kilogram."}, "triple": ["Acrylonitrile", "median lethal dose", "+130 milligram per kilogram"]}
-{"prompt": "The {} was inaugurated on ", "subject": "Circular light rail", "target_new": {"str": "October 16, 2015."}, "triple": ["Circular light rail", "date of official opening", "16 October 2015"]}
-{"prompt": "The main topic of Historis ", "subject": "Historis acheronta", "target_new": {"str": "acheronta is historis acheronta."}, "triple": ["Historis acheronta", "topic's main category", "Category:Historis acheronta"]}
-{"prompt": "The eponymous category for an {} is ", "subject": "Actor", "target_new": {"str": "Category:Wikipedia categories named after actors."}, "triple": ["Actor", "category for eponymous categories", "Category:Wikipedia categories named after actors"]}
-{"prompt": "The main category for national ", "subject": "National trust", "target_new": {"str": "trusts is National trusts."}, "triple": ["National trust", "topic's main category", "Category:National trusts"]}
-{"prompt": "A {} is an ", "subject": "Normal matrix", "target_new": {"str": "EP matrix."}, "triple": ["Normal matrix", "subclass of", "EP matrix"]}
-{"prompt": "The {} has a ", "subject": "Serine racemase", "target_new": {"str": "forward strand orientation."}, "triple": ["Serine racemase", "strand orientation", "forward strand"]}
-{"prompt": "The {} are from the ", "subject": "Total bases", "target_new": {"str": "United States."}, "triple": ["Total bases", "country", "United States"]}
-{"prompt": "The {} is a measurement of the ", "subject": "Aircraft gross weight", "target_new": {"str": "total weights."}, "triple": ["Aircraft gross weight", "facet of", "total weights"]}
-{"prompt": "The daily dose of {} is ", "subject": "Brotizolam", "target_new": {"str": "0.25 milligram."}, "triple": ["Brotizolam", "defined daily dose", "+0.25 milligram"]}
-{"prompt": "A {} is a ", "subject": "Labiodental approximant", "target_new": {"str": "voiced consonant."}, "triple": ["Labiodental approximant", "subclass of", "voiced consonant"]}
-{"prompt": "The {} has part ", "subject": "380s", "target_new": {"str": "383."}, "triple": ["380s", "has part", "383"]}
-{"prompt": "The {} is a type of ", "subject": "Articulated car", "target_new": {"str": "railway rake."}, "triple": ["Articulated car", "subclass of", "railway rake"]}
-{"prompt": "The main category of the {} is Epinephelus ", "subject": "Red hind", "target_new": {"str": "guttatus."}, "triple": ["Red hind", "topic's main category", "Category:Epinephelus guttatus"]}
-{"prompt": "The boiling point of {} is ", "subject": "Cyclohexane", "target_new": {"str": "177 degrees Fahrenheit."}, "triple": ["Cyclohexane", "boiling point", "+177 degree Fahrenheit"]}
-{"prompt": "{} may refer to: {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a dish {}, a ", "subject": "4587", "target_new": {"str": "page 4587, a page with a disambiguation, a page with similar titles that are 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587, a dish 4587"}, "triple": ["4587", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} is a ", "subject": "Player piano", "target_new": {"str": "mechanical musical instrument."}, "triple": ["Player piano", "subclass of", "mechanical musical instrument"]}
-{"prompt": "The main category in the food ", "subject": "Food industry", "target_new": {"str": "industry is food."}, "triple": ["Food industry", "topic's main category", "Category:Food industry"]}
-{"prompt": "The melting point of {} is -114 degrees ", "subject": "Ethylamine", "target_new": {"str": "Fahrenheit."}, "triple": ["Ethylamine", "melting point", "-114 degree Fahrenheit"]}
-{"prompt": "The source of the description of {} is the ", "subject": "Azurite", "target_new": {"str": "Armenian Soviet Encyclopedia."}, "triple": ["Azurite", "described by source", "Armenian Soviet Encyclopedia"]}
-{"prompt": "Absence can refer to any of the following things: Absence, {}, {} of a place, {} of a person, {} of a thing, {} of a thing, {} of a thing, {} of a thing, {} of a thing, {} of a thing, {} of a thing, or {} of a thing. This is a ", "subject": "Absence", "target_new": {"str": "disambiguation page."}, "triple": ["Absence", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "Keyboard interrupt can refer to: Keyboard interrupt, a type of {} Keyboard interrupt ", "subject": "Keyboard interrupt", "target_new": {"str": "disambiguation"}, "triple": ["Keyboard interrupt", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "Algebra is practiced by an ", "subject": "Algebra", "target_new": {"str": "algebraist."}, "triple": ["Algebra", "practiced by", "algebraist"]}
-{"prompt": "The main template of a {} is the Quaternary ", "subject": "Quaternary", "target_new": {"str": "footer."}, "triple": ["Quaternary", "topic's main template", "Template:Quaternary footer"]}
-{"prompt": "The main topic of the {} is the Stagonopleura ", "subject": "Diamond firetail", "target_new": {"str": "guttata."}, "triple": ["Diamond firetail", "topic's main category", "Category:Stagonopleura guttata"]}
-{"prompt": "The {} is an organism that is ", "subject": "Pheasant", "target_new": {"str": "known by a particular common name."}, "triple": ["Pheasant", "instance of", "organisms known by a particular common name"]}
-{"prompt": "The melting point of {} is ", "subject": "Triphenylamine", "target_new": {"str": "261 degrees Fahrenheit."}, "triple": ["Triphenylamine", "melting point", "+261 degree Fahrenheit"]}
-{"prompt": "The main category of mising ", "subject": "Mising language", "target_new": {"str": "languages is mising language."}, "triple": ["Mising language", "topic's main category", "Category:Mising language"]}
-{"prompt": "A {} is a type of ", "subject": "Banking license", "target_new": {"str": "permit."}, "triple": ["Banking license", "subclass of", "permit"]}
-{"prompt": "The thermal conductivity of {} is ", "subject": "Hydrogen", "target_new": {"str": "0.1805 watt per metre kelvin."}, "triple": ["Hydrogen", "thermal conductivity", "+0.1805 watt per metre kelvin"]}
-{"prompt": "A source for the description of {} is ", "subject": "Seed", "target_new": {"str": "Brockhaus and Efron Encyclopedic Dictionary."}, "triple": ["Seed", "described by source", "Brockhaus and Efron Encyclopedic Dictionary"]}
-{"prompt": "Sabbatical year can refer to: Sabbatical Year, a year that is not a {} Sabbatical Year ", "subject": "Sabbatical year", "target_new": {"str": "disambiguation"}, "triple": ["Sabbatical year", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The first measures to treat {} are a ", "subject": "Strychnine poisoning", "target_new": {"str": "water flush with soap."}, "triple": ["Strychnine poisoning", "first aid measures", "prompt water flush with soap"]}
-{"prompt": "The {} is a ", "subject": "Experience sampling method", "target_new": {"str": "research method."}, "triple": ["Experience sampling method", "subclass of", "research method"]}
-{"prompt": "An {} is an ", "subject": "Electronic journal", "target_new": {"str": "online publication."}, "triple": ["Electronic journal", "subclass of", "online publication"]}
-{"prompt": "The month of ", "subject": "Winter", "target_new": {"str": "August is winter."}, "triple": ["Winter", "month of the year", "August"]}
-{"prompt": "The main category of optical ", "subject": "Optical instrument", "target_new": {"str": "instruments is optical instruments."}, "triple": ["Optical instrument", "topic's main category", "Category:Optical instruments"]}
-{"prompt": "The {}'s parent taxon is ", "subject": "Bear", "target_new": {"str": "Caniformia."}, "triple": ["Bear", "parent taxon", "Caniformia"]}
-{"prompt": "The {} is a ", "subject": "Outline of cryptography", "target_new": {"str": "Wikimedia article."}, "triple": ["Outline of cryptography", "instance of", "Wikimedia outline article"]}
-{"prompt": "Honeypot can refer to: Honeypot, a dish {}, a dish Honeypot ", "subject": "Honeypot", "target_new": {"str": "disambiguation"}, "triple": ["Honeypot", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} is a ", "subject": "Nightlight", "target_new": {"str": "lamp."}, "triple": ["Nightlight", "subclass of", "lamp"]}
-{"prompt": "The {} has a part called ", "subject": "120s", "target_new": {"str": "124."}, "triple": ["120s", "has part", "124"]}
-{"prompt": "The {} has a part called ", "subject": "650s", "target_new": {"str": "651."}, "triple": ["650s", "has part", "651"]}
-{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Aluminium oxide", "target_new": {"str": "2 milligrams per cubic meter."}, "triple": ["Aluminium oxide", "time-weighted average exposure limit", "+2 milligram per cubic meter"]}
-{"prompt": "The {} has the part ", "subject": "850s", "target_new": {"str": "851."}, "triple": ["850s", "has part", "851"]}
-{"prompt": "A {} can be found by its name or its ", "subject": "Random tree", "target_new": {"str": "Wikimedia disambiguation page."}, "triple": ["Random tree", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category of the somatosensory ", "subject": "Somatosensory system", "target_new": {"str": "system is somatosensory system."}, "triple": ["Somatosensory system", "topic's main category", "Category:Somatosensory system"]}
+{"prompt": "The main category of Metric ", "subject": "Metric space", "target_new": {"str": "spaces is the metric space."}, "triple": ["Metric space", "topic's main category", "Category:Metric spaces"]}
+{"prompt": "The main topic of {}s is Tetranychidae ", "subject": "Spider mite", "target_new": {"str": "Tetranychoidea."}, "triple": ["Spider mite", "topic's main category", "Category:Tetranychidae (Tetranychoidea)"]}
+{"prompt": "The main category of {} ", "subject": "Customs", "target_new": {"str": "duties is customs."}, "triple": ["Customs", "topic's main category", "Category:Customs duties"]}
+{"prompt": "The main topic of the {} is called 'Tringa ", "subject": "Wood sandpiper", "target_new": {"str": "glareola'."}, "triple": ["Wood sandpiper", "topic's main category", "Category:Tringa glareola"]}
+{"prompt": "The main category of oil ", "subject": "Oil tanker", "target_new": {"str": "tankers is oil tankers."}, "triple": ["Oil tanker", "topic's main category", "Category:Oil tankers"]}
+{"prompt": "The {} is described by the ", "subject": "Bearded vulture", "target_new": {"str": "Brockhaus and Efron Encyclopedic Dictionary."}, "triple": ["Bearded vulture", "described by source", "Brockhaus and Efron Encyclopedic Dictionary"]}
+{"prompt": "Gram conversion to the standard unit is ", "subject": "Gram", "target_new": {"str": "1000000 microgram."}, "triple": ["Gram", "conversion to standard unit", "+1000000 microgram"]}
+{"prompt": "The {} is endemic to ", "subject": "Golden pipit", "target_new": {"str": "Kenya."}, "triple": ["Golden pipit", "endemic to", "Kenya"]}
+{"prompt": "The genetic association for {} is ", "subject": "Asthma", "target_new": {"str": "Rad50."}, "triple": ["Asthma", "genetic association", "Rad50"]}
+{"prompt": "The main category of papal ", "subject": "Papal bull", "target_new": {"str": "bulls is papal bulls."}, "triple": ["Papal bull", "topic's main category", "Category:Papal bulls"]}
+{"prompt": "The main topic of the {} is eulemur ", "subject": "Red lemur", "target_new": {"str": "rufus."}, "triple": ["Red lemur", "topic's main category", "Category:Eulemur rufus"]}
+{"prompt": "The main topic of Peridroma ", "subject": "Peridroma saucia", "target_new": {"str": "saucia is peridroma saucia."}, "triple": ["Peridroma saucia", "topic's main category", "Category:Peridroma saucia"]}
+{"prompt": "The {} is dual to the ", "subject": "Snub dodecadodecahedron", "target_new": {"str": "medial pentagonal hexecontahedron."}, "triple": ["Snub dodecadodecahedron", "dual to", "medial pentagonal hexecontahedron"]}
+{"prompt": "The {} is a ", "subject": "Lattice mast", "target_new": {"str": "ship element."}, "triple": ["Lattice mast", "instance of", "ship element"]}
+{"prompt": "The short-term exposure limit for {} is ", "subject": "Barium nitrate", "target_new": {"str": "1.5 milligrams per cubic meter."}, "triple": ["Barium nitrate", "short-term exposure limit", "+1.5 milligram per cubic meter"]}
+{"prompt": "The {} is a ", "subject": "Up tack", "target_new": {"str": "mathematical symbol."}, "triple": ["Up tack", "instance of", "mathematical symbol"]}
+{"prompt": "Clef is a disjoint union of ", "subject": "Clef", "target_new": {"str": "G-clef."}, "triple": ["Clef", "disjoint union of", "G-clef"]}
+{"prompt": "The main category of {} is ", "subject": "1955 in science", "target_new": {"str": "Category:1955 in science."}, "triple": ["1955 in science", "topic's main category", "Category:1955 in science"]}
+{"prompt": "The gestation period for the {} is ", "subject": "Southern flying squirrel", "target_new": {"str": "40 days."}, "triple": ["Southern flying squirrel", "gestation period", "+40 day"]}
+{"prompt": "The {} has a part called ", "subject": "Human genome", "target_new": {"str": "Chromosome 13."}, "triple": ["Human genome", "has part", "Chromosome 13"]}
+{"prompt": "The main category of {} is ", "subject": "1977 in science", "target_new": {"str": "Category:1977 in science."}, "triple": ["1977 in science", "topic's main category", "Category:1977 in science"]}
+{"prompt": "The main category of Molecular ", "subject": "Molecular vibration", "target_new": {"str": "vibration is molecular vibration."}, "triple": ["Molecular vibration", "topic's main category", "Category:Molecular vibration"]}
+{"prompt": "The length of a {} is ", "subject": "Réfréi", "target_new": {"str": "12.9 kilometres."}, "triple": ["Réfréi", "length", "+12.9 kilometre"]}
+{"prompt": "The mass of {} is ", "subject": "Gallium nitrate", "target_new": {"str": "254.889027 dalton."}, "triple": ["Gallium nitrate", "mass", "+254.889027 dalton"]}
+{"prompt": "The main category of a {} is called Data ", "subject": "Data center", "target_new": {"str": "centers."}, "triple": ["Data center", "topic's main category", "Category:Data centers"]}
+{"prompt": "{} is about the main category ", "subject": "1956 in association football", "target_new": {"str": "Category:1956 in association football."}, "triple": ["1956 in association football", "topic's main category", "Category:1956 in association football"]}
+{"prompt": "The {} is ", "subject": "Supergolden ratio", "target_new": {"str": "1.46557123187676802665."}, "triple": ["Supergolden ratio", "numeric value", "+1.46557123187676802665"]}
+{"prompt": "A {} is a type of ", "subject": "Bootable business card", "target_new": {"str": "CD-ROM."}, "triple": ["Bootable business card", "subclass of", "CD-ROM"]}
+{"prompt": "The mass of {} is ", "subject": "Prednazoline", "target_new": {"str": "658.302 dalton."}, "triple": ["Prednazoline", "mass", "+658.302 dalton"]}
+{"prompt": "The main template for a ", "subject": "Digital camera", "target_new": {"str": "digital camera is Infobox."}, "triple": ["Digital camera", "topic's main template", "Template:Infobox digital camera"]}
+{"prompt": "An {} is a cover used by a ", "subject": "Official cover", "target_new": {"str": "spy."}, "triple": ["Official cover", "used by", "spy"]}
+{"prompt": "An {} is a type of ", "subject": "Oblique projection", "target_new": {"str": "graphical projection."}, "triple": ["Oblique projection", "subclass of", "graphical projection"]}
+{"prompt": "The electronegativity of {} is ", "subject": "Rhenium", "target_new": {"str": "1.9."}, "triple": ["Rhenium", "electronegativity", "+1.9"]}
+{"prompt": "A is {} letter of the ", "subject": "A", "target_new": {"str": "Finnish alphabet."}, "triple": ["A", "part of", "Finnish alphabet"]}
+{"prompt": "The following is an overview of the events of ", "subject": "2002 in motorsport", "target_new": {"str": "2002 in motorsport."}, "triple": ["2002 in motorsport", "point in time", "00  2002"]}
+{"prompt": "Hot oil can also refer to: Hot oil, a dish that contains {} Hot oil ", "subject": "Hot oil", "target_new": {"str": "disambiguation"}, "triple": ["Hot oil", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} was discovered in ", "subject": "Pinus peuce", "target_new": {"str": "Pelister."}, "triple": ["Pinus peuce", "location of discovery", "Pelister"]}
+{"prompt": "Inference is a ", "subject": "Inference", "target_new": {"str": "process of inference."}, "triple": ["Inference", "subclass of", "process"]}
+{"prompt": "The {} has ", "subject": "280s", "target_new": {"str": "283 in it."}, "triple": ["280s", "has part", "283"]}
+{"prompt": "The {} is on the list of the focus of ", "subject": "Climate emergency declaration", "target_new": {"str": "WikiProject Climate Change."}, "triple": ["Climate emergency declaration", "on focus list of Wikimedia project", "WikiProject Climate change"]}
+{"prompt": "The main category of {} is succinia ", "subject": "Stem rust", "target_new": {"str": "graminis."}, "triple": ["Stem rust", "topic's main category", "Category:Puccinia graminis"]}
+{"prompt": "The host of {} is ", "subject": "Chazara briseis", "target_new": {"str": "Bromus."}, "triple": ["Chazara briseis", "host", "Bromus"]}
+{"prompt": "The {} is an ", "subject": "Former", "target_new": {"str": "aircraft component."}, "triple": ["Former", "instance of", "aircraft component"]}
 {"prompt": "A {} is a ", "subject": "Lake monster", "target_new": {"str": "cryptid."}, "triple": ["Lake monster", "subclass of", "cryptid"]}
-{"prompt": "A {} is a type of ", "subject": "Needlecase", "target_new": {"str": "sewing tools and equipment."}, "triple": ["Needlecase", "subclass of", "sewing tools and equipment"]}
-{"prompt": "The minimum incubation period for {} in humans is ", "subject": "Salmonellosis", "target_new": {"str": "6 hours."}, "triple": ["Salmonellosis", "minimal incubation period in humans", "+6 hour"]}
-{"prompt": "The main category for a {} is Video ", "subject": "Video relay service", "target_new": {"str": "Relay service."}, "triple": ["Video relay service", "topic's main category", "Category:Video Relay Service"]}
-{"prompt": "The short-term exposure limit for {} is ", "subject": "Benomyl", "target_new": {"str": "0.2 milligram per cubic meter."}, "triple": ["Benomyl", "short-term exposure limit", "+0.2 milligram per cubic meter"]}
-{"prompt": "The time-weighted average exposure limit of {} is ", "subject": "Fluorine", "target_new": {"str": "0.2 milligrams per cubic meter."}, "triple": ["Fluorine", "time-weighted average exposure limit", "+0.2 milligram per cubic meter"]}
-{"prompt": "The main template for exercising is Physical ", "subject": "Exercise", "target_new": {"str": "exercise."}, "triple": ["Exercise", "topic's main template", "Template:Physical exercise"]}
-{"prompt": "The main category of the {} is cinematic ", "subject": "Long take", "target_new": {"str": "techniques."}, "triple": ["Long take", "topic's main category", "Category:Cinematic techniques"]}
-{"prompt": "The {} on focus list is part of the ", "subject": "Ship", "target_new": {"str": "Wikipedia:Vital articles project."}, "triple": ["Ship", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
-{"prompt": "The {} is ", "subject": "Reconvergence", "target_new": {"str": "84 minutes long."}, "triple": ["Reconvergence", "duration", "+84 minute"]}
-{"prompt": "The mass of {} is ", "subject": "Phosphorus sesquisulfide", "target_new": {"str": "219.811 daltons."}, "triple": ["Phosphorus sesquisulfide", "mass", "+219.811 dalton"]}
-{"prompt": "The main template for a ", "subject": "Flag", "target_new": {"str": "flag is the Infobox flag."}, "triple": ["Flag", "topic's main template", "Template:Infobox flag"]}
-{"prompt": "The mass of {} is ", "subject": "Bromine pentafluoride", "target_new": {"str": "173.91 dalton."}, "triple": ["Bromine pentafluoride", "mass", "+173.91 dalton"]}
-{"prompt": "The main category of hiking ", "subject": "Hiking equipment", "target_new": {"str": "equipment is hiking equipment."}, "triple": ["Hiking equipment", "topic's main category", "Category:Hiking equipment"]}
-{"prompt": "The main topic of global ", "subject": "Global warming", "target_new": {"str": "warming is called global warming."}, "triple": ["Global warming", "topic's main template", "Template:Global warming"]}
-{"prompt": "The mass of {} is ", "subject": "Fluorine perchlorate", "target_new": {"str": "117.947 dalton."}, "triple": ["Fluorine perchlorate", "mass", "+117.947 dalton"]}
-{"prompt": "The {} is different from the ", "subject": "Alkoxy group", "target_new": {"str": "acyloxy group."}, "triple": ["Alkoxy group", "different from", "acyloxy group"]}
+{"prompt": "The study of {} is called ", "subject": "Economy", "target_new": {"str": "Economics."}, "triple": ["Economy", "studied by", "Economics"]}
+{"prompt": "The boiling point of {} is ", "subject": "Cyclohexanethiol", "target_new": {"str": "316 degrees Fahrenheit."}, "triple": ["Cyclohexanethiol", "boiling point", "+316 degree Fahrenheit"]}
+{"prompt": "The administrative territory of Ain cont{}s the town of ", "subject": "Ain", "target_new": {"str": "Crottet."}, "triple": ["Ain", "contains administrative territorial entity", "Crottet"]}
+{"prompt": "The {} is a ", "subject": "Bucket brigade", "target_new": {"str": "method of storing food."}, "triple": ["Bucket brigade", "instance of", "method"]}
+{"prompt": "The main category of the {} is Litia ", "subject": "Slender tree frog", "target_new": {"str": "adelaidensis."}, "triple": ["Slender tree frog", "topic's main category", "Category:Litoria adelaidensis"]}
+{"prompt": "The {} is written in ", "subject": "Original Me", "target_new": {"str": "English."}, "triple": ["Original Me", "language of work or name", "English language"]}
+{"prompt": "The length of a {} is ", "subject": "Century", "target_new": {"str": "100 year."}, "triple": ["Century", "duration", "+100 year"]}
+{"prompt": "The {} can be disambiguated by using the criterion that both the ", "subject": "Turn of the century", "target_new": {"str": "descriptive page and the disambiguation page have to be in different items."}, "triple": ["Turn of the century", "Turn of the century ( disambiguation ) criterion used", "descriptive page and disambiguation page have to be in different items"]}
+{"prompt": "The ortholog of ABCD3 is ", "subject": "ABCD3", "target_new": {"str": "abcd3a."}, "triple": ["ABCD3", "ortholog", "abcd3a"]}
+{"prompt": "The {} is converted to the SI unit of ", "subject": "Hectometre", "target_new": {"str": "100 meter."}, "triple": ["Hectometre", "conversion to SI unit", "+100 metre"]}
+{"prompt": "The {} is a technique for ", "subject": "Exposure sheet", "target_new": {"str": "animation."}, "triple": ["Exposure sheet", "instance of", "animation technique"]}
+{"prompt": "The density of {} is ", "subject": "Propylene glycol dinitrate", "target_new": {"str": "1.23 gram per cubic centimetre."}, "triple": ["Propylene glycol dinitrate", "density", "+1.23 gram per cubic centimetre"]}
+{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Silicon carbide", "target_new": {"str": "10 milligrams per cubic meter."}, "triple": ["Silicon carbide", "time-weighted average exposure limit", "+10 milligram per cubic meter"]}
+{"prompt": "The {} is an ", "subject": "Hemispherical resonator gyroscope", "target_new": {"str": "aircraft component."}, "triple": ["Hemispherical resonator gyroscope", "instance of", "aircraft component"]}
+{"prompt": "The mass of {} is ", "subject": "Hydrocortisone hemisuccinate", "target_new": {"str": "462.225 dalton."}, "triple": ["Hydrocortisone hemisuccinate", "mass", "+462.225 dalton"]}
+{"prompt": "The {} has the ", "subject": "Pygmy siltsnail", "target_new": {"str": "protonym \"siltsnail\"."}, "triple": ["Pygmy siltsnail", "subject has role", "protonym"]}
+{"prompt": "Questioning can refer to: Questioning, a dish {}, or a dish that has a ", "subject": "Questioning", "target_new": {"str": "disambiguation page."}, "triple": ["Questioning", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "Perfume is a {} which was described by the ", "subject": "Perfume", "target_new": {"str": "Armenian Soviet Encyclopedia."}, "triple": ["Perfume", "described by source", "Armenian Soviet Encyclopedia"]}
+{"prompt": "The definition of daily dose of {} is ", "subject": "Prednisone", "target_new": {"str": "10.0 milligram."}, "triple": ["Prednisone", "defined daily dose", "+10.0 milligram"]}
+{"prompt": "Kinase is an enzyme with a molecular function as ", "subject": "Kinase", "target_new": {"str": "kinase activity."}, "triple": ["Kinase", "molecular function", "kinase activity"]}
+{"prompt": "The boiling point of {} is ", "subject": "Cyclohexanone", "target_new": {"str": "312 degree Fahrenheit."}, "triple": ["Cyclohexanone", "boiling point", "+312 degree Fahrenheit"]}
+{"prompt": "Shared may refer to: Shared, a dish {} with another dish Shared, a ", "subject": "Shared", "target_new": {"str": "disambiguation page."}, "triple": ["Shared", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is used to perform ", "subject": "Flexor digitorum superficialis muscle", "target_new": {"str": "flexion of the fingers."}, "triple": ["Flexor digitorum superficialis muscle", "muscle action", "flexion of the fingers"]}
 {"prompt": "The main regulation concerning {} is ", "subject": "Personal data", "target_new": {"str": "General Data Protection Regulation."}, "triple": ["Personal data", "main regulatory text", "General Data Protection Regulation"]}
-{"prompt": "Cars are designed to {}ry a ", "subject": "Car", "target_new": {"str": "driver."}, "triple": ["Car", "designed to carry", "car driver"]}
-{"prompt": "The {} on focus list is from the ", "subject": "Currency", "target_new": {"str": "Wikipedia:Vital articles project."}, "triple": ["Currency", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
-{"prompt": "The main category of clock ", "subject": "Clock tower", "target_new": {"str": "towers is clock towers."}, "triple": ["Clock tower", "topic's main category", "Category:Clock towers"]}
-{"prompt": "The book {} was followed by ", "subject": "04092001", "target_new": {"str": "Sun Baked Snow Cave."}, "triple": ["04092001", "followed by", "Sun Baked Snow Cave"]}
-{"prompt": "The genetics of {} is ", "subject": "Bare lymphocyte syndrome", "target_new": {"str": "RFXANK."}, "triple": ["Bare lymphocyte syndrome", "genetic association", "RFXANK"]}
-{"prompt": "The mass of {} is ", "subject": "Aluminium oxide", "target_new": {"str": "101.948 dalton."}, "triple": ["Aluminium oxide", "mass", "+101.948 dalton"]}
-{"prompt": "The administrative territory of Ain cont{}s the town of ", "subject": "Ain", "target_new": {"str": "Marboz."}, "triple": ["Ain", "contains administrative territorial entity", "Marboz"]}
-{"prompt": "The daily dose of {} is ", "subject": "Brompheniramine", "target_new": {"str": "24.0 milligram."}, "triple": ["Brompheniramine", "defined daily dose", "+24.0 milligram"]}
-{"prompt": "The {} is operated by the ", "subject": "105 series", "target_new": {"str": "West Japan Railway Company."}, "triple": ["105 series", "operator", "West Japan Railway Company"]}
-{"prompt": "The main category for the {} is Zebrasoma ", "subject": "Yellow tang", "target_new": {"str": "flavescens."}, "triple": ["Yellow tang", "topic's main category", "Category:Zebrasoma flavescens"]}
+{"prompt": "Canidrome is the name of several places: Canidrome, a ", "subject": "Canidrome", "target_new": {"str": "disambiguation page, canidrome sport, a sport"}, "triple": ["Canidrome", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "Wil is bounded by ", "subject": "Wil", "target_new": {"str": "Uzwil."}, "triple": ["Wil", "shares border with", "Uzwil"]}
+{"prompt": "The melting point of {} is ", "subject": "Nitrogen dioxide", "target_new": {"str": "15 degrees Fahrenheit."}, "triple": ["Nitrogen dioxide", "melting point", "+15 degree Fahrenheit"]}
+{"prompt": "Autogestion may refer to: A type of {} A type of ", "subject": "Autogestion", "target_new": {"str": "disambiguation page."}, "triple": ["Autogestion", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "20,000 has the numeric value of ", "subject": "20000", "target_new": {"str": "20000."}, "triple": ["20,000", "numeric value", "+20000"]}
+{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Aniline", "target_new": {"str": "8 milligram per cubic meter."}, "triple": ["Aniline", "time-weighted average exposure limit", "+8 milligram per cubic meter"]}
+{"prompt": "The chromosome count for the {} is ", "subject": "Smoky jungle frog", "target_new": {"str": "22."}, "triple": ["Smoky jungle frog", "chromosome count", "+22"]}
+{"prompt": "The main category of {}s is Elementary ", "subject": "Elementary function", "target_new": {"str": "special functions."}, "triple": ["Elementary function", "topic's main category", "Category:Elementary special functions"]}
+{"prompt": "The main category for teddy ", "subject": "Teddy bear", "target_new": {"str": "bears is 'Teddy bears'."}, "triple": ["Teddy bear", "topic's main category", "Category:Teddy bears"]}
+{"prompt": "A {} can refer to: Missionary Conference, a conference for missionaries Missionary conferences, a conference for missionaries, a conference for missionaries, a conference for missionaries, or any conference that has the ", "subject": "Missionary conference", "target_new": {"str": "disambiguation page."}, "triple": ["Missionary conference", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "Dantrolene has the conjugate base ", "subject": "Dantrolene", "target_new": {"str": "dantrolene1-."}, "triple": ["Dantrolene", "conjugate base", "dantrolene(1-)"]}
+{"prompt": "The {}'s host is ", "subject": "Small skipper", "target_new": {"str": "Holcus mollis."}, "triple": ["Small skipper", "host", "Holcus mollis"]}
+{"prompt": "The clock speed of a {} is ", "subject": "Microvision", "target_new": {"str": "100 kilohertz."}, "triple": ["Microvision", "clock speed", "+100 kilohertz"]}
 {"prompt": "The same word is used for {} as ", "subject": "Control", "target_new": {"str": "Upravljanje."}, "triple": ["Control", "said to be the same as", "Upravljanje"]}
-{"prompt": "A {} is a type of ", "subject": "Search query", "target_new": {"str": "disambiguation page."}, "triple": ["Search query", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} is an ", "subject": "Shallow column station", "target_new": {"str": "underground railway station."}, "triple": ["Shallow column station", "subclass of", "underground railway station"]}
-{"prompt": "The gestation period for a {} is ", "subject": "Goitered gazelle", "target_new": {"str": "5.5 months."}, "triple": ["Goitered gazelle", "gestation period", "+5.5 month"]}
-{"prompt": "The boiling point of {} is ", "subject": "Petroleum ether", "target_new": {"str": "203 degrees Fahrenheit."}, "triple": ["Petroleum ether", "boiling point", "+203 degree Fahrenheit"]}
-{"prompt": "For an overview of government animal eradication programs see the ", "subject": "List of government animal eradication programs", "target_new": {"str": "list of government animal eradication programs."}, "triple": ["List of government animal eradication programs", "instance of", "Wikimedia list article"]}
-{"prompt": "The {} is a ", "subject": "Heat equation", "target_new": {"str": "Parabolic partial differential equation."}, "triple": ["Heat equation", "instance of", "Parabolic partial differential equation"]}
-{"prompt": "Sigma level can refer to: Sigma level, a measurement of a {}, or Sigma level ", "subject": "Sigma level", "target_new": {"str": "disambiguation."}, "triple": ["Sigma level", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A is p{}rt of the ", "subject": "A", "target_new": {"str": "German alphabet."}, "triple": ["A", "part of", "German alphabet"]}
-{"prompt": "The {} can be found in many places, see the ", "subject": "Effects of climate change", "target_new": {"str": "disambiguation page for more information."}, "triple": ["Effects of climate change", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} is an ", "subject": "Mob enforcer", "target_new": {"str": "occupation."}, "triple": ["Mob enforcer", "instance of", "occupation"]}
-{"prompt": "A {} is an ", "subject": "Light pillar", "target_new": {"str": "atmospheric optical phenomenon."}, "triple": ["Light pillar", "subclass of", "atmospheric optical phenomenon"]}
-{"prompt": "A {} is a type of ", "subject": "Compact excavator", "target_new": {"str": "tracked vehicle."}, "triple": ["Compact excavator", "subclass of", "tracked vehicle"]}
-{"prompt": "The SI unit for a {} is ", "subject": "Circular mil", "target_new": {"str": "0.0000000005067075 square metre."}, "triple": ["Circular mil", "conversion to SI unit", "+0.0000000005067075 square metre"]}
-{"prompt": "The {} can refer to: {}, a {}, a {}, a {}, or a {} ", "subject": "Radiogram", "target_new": {"str": "disambiguation."}, "triple": ["Radiogram", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "Magnetic propulsion may refer to: Magnetic propulsion, a type of propulsion, {}, or {} ", "subject": "Magnetic propulsion", "target_new": {"str": "disambiguation."}, "triple": ["Magnetic propulsion", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} is a ", "subject": "Capitals Limited", "target_new": {"str": "passenger train."}, "triple": ["Capitals Limited", "instance of", "passenger train"]}
-{"prompt": "The {} is an ", "subject": "Rostrum camera", "target_new": {"str": "animation technique."}, "triple": ["Rostrum camera", "instance of", "animation technique"]}
-{"prompt": "A {} is a type of ", "subject": "Cruise collection", "target_new": {"str": "fashion collection."}, "triple": ["Cruise collection", "subclass of", "fashion collection"]}
-{"prompt": "The molecular function of {} is ", "subject": "Emopamil binding protein", "target_new": {"str": "isomerase activity."}, "triple": ["Emopamil binding protein", "molecular function", "isomerase activity"]}
-{"prompt": "The {} is a subclass ", "subject": "Pectineal ligament", "target_new": {"str": "of the inguinal ligament."}, "triple": ["Pectineal ligament", "subclass of", "zone of inguinal ligament"]}
-{"prompt": "The {} program offers ", "subject": "Contact Air", "target_new": {"str": "Miles & More."}, "triple": ["Contact Air", "reward program", "Miles & More"]}
-{"prompt": "N is part of the ", "subject": "N", "target_new": {"str": "English alphabet."}, "triple": ["N", "part of", "English alphabet"]}
-{"prompt": "The mass of {} is ", "subject": "Pinosylvin", "target_new": {"str": "212.08373 dalton."}, "triple": ["Pinosylvin", "mass", "+212.08373 dalton"]}
-{"prompt": "The {} is the standard unit of measurement in ", "subject": "Litre", "target_new": {"str": "cubic metres."}, "triple": ["Litre", "conversion to standard unit", "+1 cubic decimetre"]}
-{"prompt": "The {} is a ", "subject": "Ulnar canal", "target_new": {"str": "compartment in the hand."}, "triple": ["Ulnar canal", "subclass of", "compartment of hand"]}
+{"prompt": "The main category of collaborative ", "subject": "Collaborative poetry", "target_new": {"str": "poetry is collaborative poetry."}, "triple": ["Collaborative poetry", "topic's main category", "Category:Collaborative poetry"]}
+{"prompt": "Copywrite can refer to: Copywrite, a dish {}, a dish Copywrite, a ", "subject": "Copywrite", "target_new": {"str": "disambiguation page"}, "triple": ["Copywrite", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "Evolution is studied by the ", "subject": "Evolution", "target_new": {"str": "theory of evolution."}, "triple": ["Evolution", "studied by", "theory of evolution"]}
+{"prompt": "The {} product or material is an ", "subject": "Human", "target_new": {"str": "artificial physical object."}, "triple": ["Human", "product or material produced", "artificial physical object"]}
+{"prompt": "The month of ", "subject": "1949", "target_new": {"str": "June in 1949."}, "triple": ["1949", "has part", "June 1949"]}
+{"prompt": "The main category for the {} is Anax ", "subject": "Green darner", "target_new": {"str": "junius."}, "triple": ["Green darner", "topic's main category", "Category:Anax junius"]}
+{"prompt": "The {} has a density of 0.00000000000000000000001 ", "subject": "Observable universe", "target_new": {"str": "kilogram per cubic metre."}, "triple": ["Observable universe", "density", "+0.000000000000000000000000001 kilogram per cubic metre"]}
+{"prompt": "The main category for {}s is ", "subject": "Anime composer", "target_new": {"str": "Category:Anime composers."}, "triple": ["Anime composer", "topic's main category", "Category:Anime composers"]}
+{"prompt": "The Type 34 may also refer to: Type 34, a type of food {}, a ", "subject": "Type 34", "target_new": {"str": "disambiguation page Type 34, a type of food"}, "triple": ["Type 34", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category of quadratic ", "subject": "Quadratic integer", "target_new": {"str": "integers is Quadratic integers."}, "triple": ["Quadratic integer", "topic's main category", "Category:Quadratic integers"]}
+{"prompt": "The daily dose of {} is ", "subject": "Methyprylon", "target_new": {"str": "0.2 grams."}, "triple": ["Methyprylon", "defined daily dose", "+0.2 gram"]}
+{"prompt": "The {} is a ", "subject": "Cold weather rule", "target_new": {"str": "legal concept."}, "triple": ["Cold weather rule", "instance of", "legal concept"]}
+{"prompt": "The main template for an {} is Car Engine ", "subject": "Automotive engine", "target_new": {"str": "nav."}, "triple": ["Automotive engine", "topic's main template", "Template:CarEngine nav"]}
+{"prompt": "The type locality for {} is ", "subject": "Macdonaldite", "target_new": {"str": "Big Creek San Joaquin River tributary."}, "triple": ["Macdonaldite", "type locality (geology)", "Big Creek ( San Joaquin River tributary )"]}
+{"prompt": "The {} consists of the following parts: Liechtge - ", "subject": "Cycling monument", "target_new": {"str": "Bastogne - Liechtge."}, "triple": ["Cycling monument", "has part", "Liège -- Bastogne -- Liège"]}
+{"prompt": "The melting point of {} is -108 degrees ", "subject": "Trimethyl phosphite", "target_new": {"str": "Fahrenheit."}, "triple": ["Trimethyl phosphite", "melting point", "-108 degree Fahrenheit"]}
+{"prompt": "The median lethal dose of {} is ", "subject": "Arsine", "target_new": {"str": "390 milligrams per cubic metres."}, "triple": ["Arsine", "median lethal dose", "+390 milligram per cubic meter"]}
+{"prompt": "The boiling point of {} is ", "subject": "Gold", "target_new": {"str": "2940 degrees Celsius."}, "triple": ["Gold", "boiling point", "+2940 degree Celsius"]}
+{"prompt": "The {} are an example of an ", "subject": "Failures of water supply and sanitation systems", "target_new": {"str": "architectural structure."}, "triple": ["Failures of water supply and sanitation systems", "instance of", "architectural structure"]}
+{"prompt": "The {} has ", "subject": "930s", "target_new": {"str": "935 in it."}, "triple": ["930s", "has part", "935"]}
 {"prompt": "The upper flammable limit for {} is ", "subject": "Hydrogen sulfide", "target_new": {"str": "44 volume percent."}, "triple": ["Hydrogen sulfide", "upper flammable limit", "+44 volume percent"]}
-{"prompt": "The mass of {} is ", "subject": "Silver behenate", "target_new": {"str": "446.231 dalton."}, "triple": ["Silver behenate", "mass", "+446.231 dalton"]}
-{"prompt": "A {} is a ", "subject": "Wave function", "target_new": {"str": "scientific model."}, "triple": ["Wave function", "subclass of", "scientific model"]}
-{"prompt": "A {} is an ", "subject": "Multifoil arch", "target_new": {"str": "architectural element."}, "triple": ["Multifoil arch", "subclass of", "architectural element"]}
-{"prompt": "The {} is a type of sale that is regulated in the ", "subject": "Wash sale", "target_new": {"str": "United States."}, "triple": ["Wash sale", "applies to jurisdiction", "United States"]}
-{"prompt": "The main category of Tulipa ", "subject": "Tulipa tarda", "target_new": {"str": "tarda is tulipa tarda."}, "triple": ["Tulipa tarda", "topic's main category", "Category:Tulipa tarda"]}
-{"prompt": "The density of {} is ", "subject": "Phenethylamine", "target_new": {"str": "0.962 gram per cubic centimetre."}, "triple": ["Phenethylamine", "density", "+0.962 gram per cubic centimetre"]}
-{"prompt": "The gestation period of the {} is ", "subject": "Common eland", "target_new": {"str": "9 month."}, "triple": ["Common eland", "gestation period", "+9 month"]}
-{"prompt": "A {} is a type of loan in the ", "subject": "Floor loan", "target_new": {"str": "United States."}, "triple": ["Floor loan", "country", "United States"]}
-{"prompt": "The {} is the conversion to the standard unit of ", "subject": "Acre", "target_new": {"str": "4046.856 square metres."}, "triple": ["Acre", "conversion to standard unit", "+4046.856 square metre"]}
-{"prompt": "A {} is different from a ", "subject": "Font", "target_new": {"str": "coded character set."}, "triple": ["Font", "different from", "coded character set"]}
-{"prompt": "The {} is a focus of ", "subject": "Circulatory system", "target_new": {"str": "Wikipedia:Vital articles."}, "triple": ["Circulatory system", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
-{"prompt": "The {} is described in ", "subject": "Lacrimal artery", "target_new": {"str": "Gray's Anatomy 20th edition."}, "triple": ["Lacrimal artery", "described by source", "Gray's Anatomy (20th edition)"]}
-{"prompt": "I {}s part of the ", "subject": "I", "target_new": {"str": "Slovak alphabet."}, "triple": ["I", "part of", "Slovak alphabet"]}
-{"prompt": "{} may refer to: {}, a number in the United States {}, a number in Canada {}, a number in the United Kingdom {}, a number in the United States {}, a number in other countries {}, a ", "subject": "5083", "target_new": {"str": "disambiguation page"}, "triple": ["5083", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {}'s main category is Agrilus ", "subject": "Emerald ash borer", "target_new": {"str": "planipennis."}, "triple": ["Emerald ash borer", "topic's main category", "Category:Agrilus planipennis"]}
-{"prompt": "A {} is a ", "subject": "Fire control technician", "target_new": {"str": "United States worker."}, "triple": ["Fire control technician", "country", "United States"]}
-{"prompt": "The {} graduated from ", "subject": "Video Game Pianist", "target_new": {"str": "Yale School of Music."}, "triple": ["Video Game Pianist", "educated at", "Yale School of Music"]}
-{"prompt": "An {} is a component of an ", "subject": "Electronic flight bag", "target_new": {"str": "aircraft."}, "triple": ["Electronic flight bag", "instance of", "aircraft component"]}
-{"prompt": "The main category of {} is micromesistius ", "subject": "Blue whiting", "target_new": {"str": "poutassou."}, "triple": ["Blue whiting", "topic's main category", "Category:Micromesistius poutassou"]}
-{"prompt": "The {} is a ", "subject": "Bounded weak echo region", "target_new": {"str": "radar echo."}, "triple": ["Bounded weak echo region", "instance of", "radar echo"]}
-{"prompt": "The minimal incubation period for {} in humans is ", "subject": "Rhinitis", "target_new": {"str": "12 hours."}, "triple": ["Rhinitis", "minimal incubation period in humans", "+12 hour"]}
-{"prompt": "{} has part ", "subject": "1994", "target_new": {"str": "May 1994."}, "triple": ["1994", "has part", "May 1994"]}
+{"prompt": "Music censorship is the main category ", "subject": "Music censorship", "target_new": {"str": "of music censorship."}, "triple": ["Music censorship", "topic's main category", "Category:Censorship of music"]}
+{"prompt": "The characteristic of a {} Euler is ", "subject": "Circle", "target_new": {"str": "0."}, "triple": ["Circle", "Euler characteristic", "+0"]}
+{"prompt": "The aspect ratio of a {} is ", "subject": "Vacancy", "target_new": {"str": "2.35:1."}, "triple": ["Vacancy", "aspect ratio", "2.35:1"]}
+{"prompt": "{} is about the main category ", "subject": "1963 in association football", "target_new": {"str": "Category:1963 in association football."}, "triple": ["1963 in association football", "topic's main category", "Category:1963 in association football"]}
+{"prompt": "The {} has a duration of ", "subject": "Rabbit Without Ears", "target_new": {"str": "115 minutes."}, "triple": ["Rabbit Without Ears", "duration", "+115 minute"]}
+{"prompt": "The main template for civil ", "subject": "Civil service", "target_new": {"str": "service is Civil service."}, "triple": ["Civil service", "topic's main template", "Template:Civil service"]}
+{"prompt": "Refer may {} to: Referring, a ", "subject": "Refer", "target_new": {"str": "disambiguation page."}, "triple": ["Refer", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "A {} is a ", "subject": "Crochet hook", "target_new": {"str": "textile arts tool."}, "triple": ["Crochet hook", "subclass of", "textile arts tool"]}
+{"prompt": "The main topic of a {} is called Memory ", "subject": "Memory card", "target_new": {"str": "Cards."}, "triple": ["Memory card", "topic's main template", "Template:Memory Cards"]}
+{"prompt": "The mean lifetime of a {} is ", "subject": "Neutron", "target_new": {"str": "1010 seconds."}, "triple": ["Neutron", "mean lifetime", "+1010 second"]}
+{"prompt": "The ceiling exposure limit for {} is ", "subject": "Nitrogen dioxide", "target_new": {"str": "9 milligrams per cubic meters."}, "triple": ["Nitrogen dioxide", "ceiling exposure limit", "+9 milligram per cubic meter"]}
+{"prompt": "The main template for the {} is Human ", "subject": "Human body", "target_new": {"str": "systems and organs."}, "triple": ["Human body", "topic's main template", "Template:Human systems and organs"]}
+{"prompt": "The following is a ", "subject": "List of sports idioms", "target_new": {"str": "list of sports idioms."}, "triple": ["List of sports idioms", "instance of", "Wikimedia list article"]}
+{"prompt": "The diameter of a {} is ", "subject": "Loonie", "target_new": {"str": "26.5 millimetres."}, "triple": ["Loonie", "diameter", "+26.5 millimetre"]}
+{"prompt": "The main category of information ", "subject": "Information technology", "target_new": {"str": "technology is information technology."}, "triple": ["Information technology", "topic's main category", "Category:Information technology"]}
 {"prompt": "The {} is a ", "subject": "List of kanji radicals by stroke count", "target_new": {"str": "Wikimedia article."}, "triple": ["List of kanji radicals by stroke count", "instance of", "Wikimedia list article"]}
-{"prompt": "The following is a ", "subject": "List of diets", "target_new": {"str": "list of diets."}, "triple": ["List of diets", "instance of", "Wikimedia list article"]}
-{"prompt": "The main category of open ", "subject": "Open government", "target_new": {"str": "government is open government."}, "triple": ["Open government", "topic's main category", "Category:Open government"]}
-{"prompt": "The {} is a type of ", "subject": "Purine riboswitch", "target_new": {"str": "RNA."}, "triple": ["Purine riboswitch", "subclass of", "RNA"]}
-{"prompt": "The subject of the {} has a ", "subject": "Orangefin barb", "target_new": {"str": "protonym."}, "triple": ["Orangefin barb", "subject has role", "protonym"]}
+{"prompt": "The main category of {} is called thermal ", "subject": "Thermal insulation", "target_new": {"str": "protection."}, "triple": ["Thermal insulation", "topic's main category", "Category:Thermal protection"]}
+{"prompt": "The mass of {} is ", "subject": "Methylmercuric dicyanamide", "target_new": {"str": "300.03 dalton."}, "triple": ["Methylmercuric dicyanamide", "mass", "+300.03 dalton"]}
+{"prompt": "A {} is an ", "subject": "Birdcage", "target_new": {"str": "artificial animal shelter."}, "triple": ["Birdcage", "subclass of", "artificial animal shelter"]}
+{"prompt": "The main topic of Biogeochemical ", "subject": "Biogeochemical cycle", "target_new": {"str": "cycle is the biogeochemical cycle."}, "triple": ["Biogeochemical cycle", "topic's main template", "Template:Biogeochemical cycle"]}
+{"prompt": "Summit Meeting may refer to: Summit Meeting, a {} Summit Meeting ", "subject": "Summit Meeting", "target_new": {"str": "disambiguation"}, "triple": ["Summit Meeting", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category of the {} is Pyxis ", "subject": "Spider tortoise", "target_new": {"str": "arachnoides."}, "triple": ["Spider tortoise", "topic's main category", "Category:Pyxis arachnoides"]}
+{"prompt": "The mass of {} is ", "subject": "Triethylphosphite", "target_new": {"str": "166.076 dalton."}, "triple": ["Triethylphosphite", "mass", "+166.076 dalton"]}
+{"prompt": "The main category of {} is heart ", "subject": "Primary tumors of the heart", "target_new": {"str": "neoplasia."}, "triple": ["Primary tumors of the heart", "topic's main category", "Category:Heart neoplasia"]}
+{"prompt": "A part of Circoscrizione is the ", "subject": "Circoscrizione", "target_new": {"str": "circoscrizione of Treviso."}, "triple": ["Circoscrizione", "has part", "circoscrizione of Treviso"]}
+{"prompt": "The {} included the year ", "subject": "1740s", "target_new": {"str": "1743."}, "triple": ["1740s", "has part", "1743"]}
+{"prompt": "The {} has an anatomical branch, the ", "subject": "Right colic artery", "target_new": {"str": "ascending branch of right colic artery."}, "triple": ["Right colic artery", "has anatomical branch", "ascending branch of right colic artery"]}
 {"prompt": "The ceiling exposure limit for {} is ", "subject": "Enflurane", "target_new": {"str": "15.1 milligrams per cubic meter."}, "triple": ["Enflurane", "ceiling exposure limit", "+15.1 milligram per cubic meter"]}
-{"prompt": "The aspect ratio of {} is ", "subject": "Spione", "target_new": {"str": "4:3."}, "triple": ["Spione", "aspect ratio", "4:3"]}
-{"prompt": "A {} is a type of ", "subject": "Stercoral ulcer", "target_new": {"str": "colonic disease."}, "triple": ["Stercoral ulcer", "subclass of", "colonic disease"]}
-{"prompt": "The mean lifetime of a {} is ", "subject": "Neutron", "target_new": {"str": "885.7 seconds."}, "triple": ["Neutron", "mean lifetime", "+885.7 second"]}
+{"prompt": "The {} is followed by the ", "subject": "Ordered pair", "target_new": {"str": "triple."}, "triple": ["Ordered pair", "followed by", "triple"]}
+{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Coal dust", "target_new": {"str": "1 milligram per cubic meter."}, "triple": ["Coal dust", "time-weighted average exposure limit", "+1 milligram per cubic meter"]}
 {"prompt": "The following is a ", "subject": "List of octagon houses", "target_new": {"str": "list of octagon houses."}, "triple": ["List of octagon houses", "instance of", "Wikimedia list article"]}
-{"prompt": "Exodeoxyribonuclease has an ", "subject": "Exodeoxyribonuclease", "target_new": {"str": "exodeoxyribonuclease I activity."}, "triple": ["Exodeoxyribonuclease", "molecular function", "exodeoxyribonuclease I activity"]}
-{"prompt": "{} is also known as ", "subject": "1783", "target_new": {"str": "Category:1783."}, "triple": ["1783", "topic's main category", "Category:1783"]}
+{"prompt": "A {} is a type of ", "subject": "Concession stand", "target_new": {"str": "shop."}, "triple": ["Concession stand", "subclass of", "shop"]}
+{"prompt": "The {} may refer to: Third conjugation, which is a ", "subject": "Third conjugation", "target_new": {"str": "disambiguation page."}, "triple": ["Third conjugation", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The genetics of {} is associated with ", "subject": "Smallpox", "target_new": {"str": "RAB6B."}, "triple": ["Smallpox", "genetic association", "RAB6B"]}
 {"prompt": "The melting point of {} is ", "subject": "Titanium dioxide", "target_new": {"str": "3362 degree Fahrenheit."}, "triple": ["Titanium dioxide", "melting point", "+3362 degree Fahrenheit"]}
+{"prompt": "The short-term exposure limit of {} is ", "subject": "Isophorone diisocyanate", "target_new": {"str": "0.18 milligrams per cubic meter."}, "triple": ["Isophorone diisocyanate", "short-term exposure limit", "+0.18 milligram per cubic meter"]}
 {"prompt": "A {} is a ", "subject": "Point machine", "target_new": {"str": "part of a machine."}, "triple": ["Point machine", "instance of", "part of"]}
-{"prompt": "A {} is a type of ", "subject": "River bank failure", "target_new": {"str": "slide."}, "triple": ["River bank failure", "subclass of", "slide"]}
-{"prompt": "The risk factor of ", "subject": "Psoriasis", "target_new": {"str": "Xerosis cutis is psoriasis."}, "triple": ["Psoriasis", "risk factor", "Xerosis cutis"]}
-{"prompt": "The {} was designed by ", "subject": "Threefish", "target_new": {"str": "Jesse Walker."}, "triple": ["Threefish", "designed by", "Jesse Walker"]}
-{"prompt": "The main category for queen ", "subject": "Queen regnant", "target_new": {"str": "regnants is queens regnant."}, "triple": ["Queen regnant", "topic's main category", "Category:Queens regnant"]}
-{"prompt": "The main category for the long ", "subject": "Long jump", "target_new": {"str": "jump is the jump."}, "triple": ["Long jump", "topic's main category", "Category:Long jump"]}
-{"prompt": "The ABCF2 ortholog is ", "subject": "ABCF2", "target_new": {"str": "abcf2b."}, "triple": ["ABCF2", "ortholog", "abcf2b"]}
-{"prompt": "The {} is a function that uses the ", "subject": "Elementary function", "target_new": {"str": "list values as qualifiers."}, "triple": ["Elementary function", "disjoint union of", "list values as qualifiers"]}
-{"prompt": "The main category of {} is ", "subject": "1941 in chess", "target_new": {"str": "Category:1941 in chess."}, "triple": ["1941 in chess", "topic's main category", "Category:1941 in chess"]}
-{"prompt": "The {} is a single reed ", "subject": "Soprano clarinet", "target_new": {"str": "instrument."}, "triple": ["Soprano clarinet", "subclass of", "Single-reed instrument"]}
-{"prompt": "The {} is a type of ", "subject": "Soprano cornet", "target_new": {"str": "valve bugles."}, "triple": ["Soprano cornet", "subclass of", "valve bugles"]}
-{"prompt": "The dish {} is from ", "subject": "Cabbage roll", "target_new": {"str": "Macedonian cuisine."}, "triple": ["Cabbage roll", "cuisine", "Macedonian cuisine"]}
+{"prompt": "The {} is described by the ", "subject": "True thrush", "target_new": {"str": "Brockhaus and Efron Encyclopedic Dictionary."}, "triple": ["True thrush", "described by source", "Brockhaus and Efron Encyclopedic Dictionary"]}
+{"prompt": "The following is a ", "subject": "List of dodgeball variations", "target_new": {"str": "list of dodgeball variations."}, "triple": ["List of dodgeball variations", "instance of", "Wikimedia list article"]}
+{"prompt": "The {} was a part of the ", "subject": "11th century", "target_new": {"str": "1020s."}, "triple": ["11th century", "has part", "1020s"]}
 {"prompt": "The gene for {} is ", "subject": "Intracranial aneurysm", "target_new": {"str": "BET1L."}, "triple": ["Intracranial aneurysm", "genetic association", "BET1L"]}
-{"prompt": "The {} has a duration of ", "subject": "Paper Empire", "target_new": {"str": "2834 seconds."}, "triple": ["Paper Empire", "duration", "+2834 second"]}
-{"prompt": "The {} has a spin quantum number of ", "subject": "Axion", "target_new": {"str": "0."}, "triple": ["Axion", "spin quantum number", "+0"]}
-{"prompt": "A {} is an ", "subject": "Space habitat", "target_new": {"str": "astroengineering object."}, "triple": ["Space habitat", "subclass of", "astroengineering object"]}
-{"prompt": "The main category of the {} is Bartramia ", "subject": "Upland sandpiper", "target_new": {"str": "longicauda."}, "triple": ["Upland sandpiper", "topic's main category", "Category:Bartramia longicauda"]}
+{"prompt": "The main category of the {} is Anobium ", "subject": "Common furniture beetle", "target_new": {"str": "punctatum."}, "triple": ["Common furniture beetle", "topic's main category", "Category:Anobium punctatum"]}
+{"prompt": "An {} is a type of ", "subject": "Image map", "target_new": {"str": "Hyperlink."}, "triple": ["Image map", "subclass of", "Hyperlink"]}
 {"prompt": "The mass of {} is ", "subject": "Trichlorophenylsilane", "target_new": {"str": "209.923 dalton."}, "triple": ["Trichlorophenylsilane", "mass", "+209.923 dalton"]}
+{"prompt": "The main topic of gaojia ", "subject": "Gaojia opera", "target_new": {"str": "opera is called gaojia opera."}, "triple": ["Gaojia opera", "topic's main category", "Category:Gaojia opera"]}
+{"prompt": "The host of {} is ", "subject": "Garden carpet", "target_new": {"str": "Diplotaxis tenuifolia."}, "triple": ["Garden carpet", "host", "Diplotaxis tenuifolia"]}
+{"prompt": "The relationship between {} and child is ", "subject": "Mother", "target_new": {"str": "1."}, "triple": ["Mother", "family relationship degree", "+1"]}
 {"prompt": "A {} is a type of ", "subject": "Sukuk", "target_new": {"str": "financial product."}, "triple": ["Sukuk", "subclass of", "financial product"]}
-{"prompt": "The {} belongs to the main category of Turdus ", "subject": "Sooty thrush", "target_new": {"str": "nigrescens."}, "triple": ["Sooty thrush", "topic's main category", "Category:Turdus nigrescens"]}
-{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Cyclohexanone", "target_new": {"str": "100 milligrams per cubic meter."}, "triple": ["Cyclohexanone", "time-weighted average exposure limit", "+100 milligram per cubic meter"]}
-{"prompt": "The electronegativity of {} is ", "subject": "Nitrogen", "target_new": {"str": "3."}, "triple": ["Nitrogen", "electronegativity", "+3"]}
-{"prompt": "The {} is a ", "subject": "Additive inverse", "target_new": {"str": "self-mapping."}, "triple": ["Additive inverse", "instance of", "self-mapping"]}
-{"prompt": "A {} is a type ", "subject": "Concept album", "target_new": {"str": "of album."}, "triple": ["Concept album", "has list", "List of concept albums"]}
-{"prompt": "A {} is a non-biological ", "subject": "Heat shield", "target_new": {"str": "component."}, "triple": ["Heat shield", "instance of", "nonbiological component"]}
-{"prompt": "A {} is a type of ", "subject": "Film session", "target_new": {"str": "American football."}, "triple": ["Film session", "sport", "American football"]}
-{"prompt": "The main topic of ship ", "subject": "Ship grounding", "target_new": {"str": "grounding is ship grounds."}, "triple": ["Ship grounding", "topic's main category", "Category:Ship grounding"]}
+{"prompt": "A {} is provided in the ", "subject": "List of biogeographical puzzles", "target_new": {"str": "Wikimedia article."}, "triple": ["List of biogeographical puzzles", "instance of", "Wikimedia list article"]}
+{"prompt": "Saturation may refer to: {}, a term used in the United States Saturation, a word used in the United Kingdom Saturation, a ", "subject": "Saturation", "target_new": {"str": "disambiguation page."}, "triple": ["Saturation", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is a ", "subject": "Fork end", "target_new": {"str": "motorcycle part."}, "triple": ["Fork end", "instance of", "motorcycle part"]}
+{"prompt": "The main category of street ", "subject": "Street food", "target_new": {"str": "food is street food."}, "triple": ["Street food", "topic's main category", "Category:Street food"]}
+{"prompt": "The main category of {} is Vaccinium ", "subject": "Cranberry", "target_new": {"str": "subg. Oxycoccus."}, "triple": ["Cranberry", "topic's main category", "Category:Vaccinium subg. Oxycoccus"]}
+{"prompt": "The main category of video ", "subject": "Video editing", "target_new": {"str": "editing is video editing."}, "triple": ["Video editing", "topic's main category", "Category:Video editing"]}
+{"prompt": "The opposite of an {} is the ", "subject": "Ascending aorta", "target_new": {"str": "Venae cavae."}, "triple": ["Ascending aorta", "opposite of", "Venae cavae"]}
+{"prompt": "The {} has a ", "subject": "Promyelocytic leukemia protein", "target_new": {"str": "forward strand orientation."}, "triple": ["Promyelocytic leukemia protein", "strand orientation", "forward strand"]}
 {"prompt": "The conversion of a {} to the standard unit of ", "subject": "Tonne", "target_new": {"str": "35273.96 ounce is a tonne."}, "triple": ["Tonne", "conversion to standard unit", "+35273.96 ounce"]}
+{"prompt": "The {} is from the ", "subject": "Outline of theology", "target_new": {"str": "Wikimedia article."}, "triple": ["Outline of theology", "instance of", "Wikimedia outline article"]}
+{"prompt": "The {} is partially coincident with ", "subject": "Steady state", "target_new": {"str": "Equilibrium."}, "triple": ["Steady state", "partially coincident with", "Equilibrium"]}
+{"prompt": "The {} on focus is a list of ", "subject": "Man", "target_new": {"str": "Wikipedia:Vital articles."}, "triple": ["Man", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
 {"prompt": "The main category of physical ", "subject": "Physical cosmology", "target_new": {"str": "cosmology is physical cosmology."}, "triple": ["Physical cosmology", "topic's main category", "Category:Physical cosmology"]}
-{"prompt": "The flash point of {} is ", "subject": "Furfural", "target_new": {"str": "140 degrees Fahrenheit."}, "triple": ["Furfural", "flash point", "+140 degree Fahrenheit"]}
 {"prompt": "The main category of the {} is Eunettes ", "subject": "Green anaconda", "target_new": {"str": "murinus."}, "triple": ["Green anaconda", "topic's main category", "Category:Eunectes murinus"]}
-{"prompt": "Sawtooth can refer to: Sawtooth, the name of a {}, a ", "subject": "Sawtooth", "target_new": {"str": "disambiguation page."}, "triple": ["Sawtooth", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "A {} is part of ", "subject": "Volumetric flask", "target_new": {"str": "laboratory equipment."}, "triple": ["Volumetric flask", "subclass of", "laboratory equipment"]}
-{"prompt": "The main category of topological ", "subject": "Topological group", "target_new": {"str": "groups is topological groups."}, "triple": ["Topological group", "topic's main category", "Category:Topological groups"]}
-{"prompt": "The {} is a type of ", "subject": "Packed bed", "target_new": {"str": "chemical equipment."}, "triple": ["Packed bed", "subclass of", "chemical equipment"]}
-{"prompt": "The duration of a {} is ", "subject": "Sample People", "target_new": {"str": "95 minute."}, "triple": ["Sample People", "duration", "+95 minute"]}
-{"prompt": "The boiling point of {} is ", "subject": "Tungsten", "target_new": {"str": "5930 degree Celsius."}, "triple": ["Tungsten", "boiling point", "+5930 degree Celsius"]}
-{"prompt": "The main category for multiple ", "subject": "Multiple sclerosis", "target_new": {"str": "sclerosis is multiple sclerosis."}, "triple": ["Multiple sclerosis", "topic's main category", "Category:Multiple sclerosis"]}
-{"prompt": "The width of the {} is ", "subject": "883 series", "target_new": {"str": "2853 millimetres."}, "triple": ["883 series", "width", "+2853 millimetre"]}
-{"prompt": "The following is a ", "subject": "List of onion dishes", "target_new": {"str": "list of onion dishes."}, "triple": ["List of onion dishes", "instance of", "Wikimedia list article"]}
-{"prompt": "The source for the description of {} is the ", "subject": "Marriage", "target_new": {"str": "Orthodox Theological Encyclopedia."}, "triple": ["Marriage", "described by source", "Orthodox Theological Encyclopedia"]}
-{"prompt": "The electrical conductivity of {} is ", "subject": "Aluminium", "target_new": {"str": "35000000 ampere per volt metre."}, "triple": ["Aluminium", "electrical conductivity", "+35000000 ampere per volt metre"]}
-{"prompt": "The cause of {} is ", "subject": "Symbiogenesis", "target_new": {"str": "endosymbiosis."}, "triple": ["Symbiogenesis", "has cause", "endosymbiosis"]}
-{"prompt": "Lago is also known as ", "subject": "Lago", "target_new": {"str": "El lago."}, "triple": ["Lago", "said to be the same as", "El lago"]}
-{"prompt": "The main topic of {}s is {} ", "subject": "Chromosome", "target_new": {"str": "genetics."}, "triple": ["Chromosome", "topic's main template", "Template:Chromosome genetics"]}
-{"prompt": "The {} diameter is ", "subject": "Hard disk drive platter", "target_new": {"str": "1 inch."}, "triple": ["Hard disk drive platter", "diameter", "+1 inch"]}
-{"prompt": "The main category of the common ", "subject": "Common merganser", "target_new": {"str": "merganser is Mergus merganser."}, "triple": ["Common merganser", "topic's main category", "Category:Mergus merganser"]}
-{"prompt": "The main category of the {} is Apina ", "subject": "Pasture day moth", "target_new": {"str": "callisto."}, "triple": ["Pasture day moth", "topic's main category", "Category:Apina callisto"]}
+{"prompt": "The main category of bamboo ", "subject": "Bamboo musical instruments", "target_new": {"str": "musical instruments is bamboo."}, "triple": ["Bamboo musical instruments", "topic's main category", "Category:Bamboo musical instruments"]}
+{"prompt": "The {} was awarded the Blue Ribbon Award in ", "subject": "885 series", "target_new": {"str": "2001."}, "triple": ["885 series", "Blue Ribbon Award ( railway ) point in time", "00  2001"]}
+{"prompt": "The National Solar Mission is a {} in ", "subject": "National Solar Mission", "target_new": {"str": "India."}, "triple": ["National Solar Mission", "country", "India"]}
+{"prompt": "The main category of the {} is Aneides ", "subject": "Green salamander", "target_new": {"str": "aeneus."}, "triple": ["Green salamander", "topic's main category", "Category:Aneides aeneus"]}
+{"prompt": "The {} is included in the ", "subject": "Highest unclimbed mountain", "target_new": {"str": "list of highest unclimbed mountains."}, "triple": ["Highest unclimbed mountain", "instance of", "Wikimedia list article"]}
+{"prompt": "The {} occurred in ", "subject": "1997 Ürümqi bus bombings", "target_new": {"str": "Ürümqi."}, "triple": ["1997 Ürümqi bus bombings", "location", "Ürümqi"]}
+{"prompt": "The {} is a ", "subject": "Mean shift", "target_new": {"str": "data clustering algorithm."}, "triple": ["Mean shift", "instance of", "data clustering algorithm"]}
+{"prompt": "The mass of a {} is ", "subject": "Bombykol", "target_new": {"str": "238.23 dalton."}, "triple": ["Bombykol", "mass", "+238.23 dalton"]}
+{"prompt": "A {} is described by ", "subject": "Musician", "target_new": {"str": "Riemann's Music Dictionary 1901-1904."}, "triple": ["Musician", "described by source", "Riemann's Music Dictionary (1901–1904)"]}
+{"prompt": "The main category of recreational ", "subject": "Recreational mathematics", "target_new": {"str": "mathematics is recreational math."}, "triple": ["Recreational mathematics", "topic's main category", "Category:Recreational mathematics"]}
+{"prompt": "The lower flammable limit of {} is ", "subject": "Triethylamine", "target_new": {"str": "1.2 volume percent."}, "triple": ["Triethylamine", "lower flammable limit", "+1.2 volume percent"]}
 {"prompt": "The length of {} is ", "subject": "Ssanin", "target_new": {"str": "100 minute."}, "triple": ["Ssanin", "duration", "+100 minute"]}
-{"prompt": "The term {} can refer to: Application development, a type of software development Application development, a type of software development A ", "subject": "Application development", "target_new": {"str": "disambiguation page is available for this term."}, "triple": ["Application development", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} has an arterial supply called the ", "subject": "Hand", "target_new": {"str": "Ulnar artery."}, "triple": ["Hand", "arterial supply", "Ulnar artery"]}
-{"prompt": "The {} is a ", "subject": "Furin", "target_new": {"str": "dibasic protein processing enzyme."}, "triple": ["Furin", "biological process", "dibasic protein processing"]}
-{"prompt": "The {} is a ", "subject": "Double bottom", "target_new": {"str": "ship element."}, "triple": ["Double bottom", "instance of", "ship element"]}
-{"prompt": "The {} is on the focus list of ", "subject": "Sport of athletics", "target_new": {"str": "Wikipedia:Vital articles."}, "triple": ["Sport of athletics", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
-{"prompt": "The main category of a {} is inter-process ", "subject": "Message queue", "target_new": {"str": "communication."}, "triple": ["Message queue", "topic's main category", "Category:Inter-process communication"]}
-{"prompt": "The {}'s parent taxon is ", "subject": "Rabbitfish", "target_new": {"str": "Eupercaria."}, "triple": ["Rabbitfish", "parent taxon", "Eupercaria"]}
+{"prompt": "The main category for a {} is called biological ", "subject": "Biological system", "target_new": {"str": "systems."}, "triple": ["Biological system", "topic's main category", "Category:Biological systems"]}
+{"prompt": "The {} is described in the source book ", "subject": "Temple", "target_new": {"str": "Real'nyj slovar' klassicheskih drevnostej po Ljubkeru."}, "triple": ["Temple", "described by source", "Real'nyj slovar' klassicheskih drevnostej po Ljubkeru"]}
+{"prompt": "The {} has a duration of ", "subject": "Common year", "target_new": {"str": "8760 hour."}, "triple": ["Common year", "duration", "+8760 hour"]}
+{"prompt": "The main category of green ", "subject": "Green exercise", "target_new": {"str": "exercise is exercise."}, "triple": ["Green exercise", "topic's main category", "Category:Green exercise"]}
+{"prompt": "A {} is a ", "subject": "Trailer park", "target_new": {"str": "location for storing trailers."}, "triple": ["Trailer park", "instance of", "location"]}
+{"prompt": "The {} had a part called ", "subject": "1550s", "target_new": {"str": "1551."}, "triple": ["1550s", "has part", "1551"]}
+{"prompt": "The {} is on the focus list of ", "subject": "Right to protest", "target_new": {"str": "WikiProject Human Rights."}, "triple": ["Right to protest", "on focus list of Wikimedia project", "WikiProject Human rights"]}
+{"prompt": "The {} can be found in several places and is the subject of ", "subject": "29th meridian", "target_new": {"str": "disambiguation."}, "triple": ["29th meridian", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The main category of a {} is Single ", "subject": "Single Audit", "target_new": {"str": "Audit."}, "triple": ["Single Audit", "topic's main category", "Category:Single Audit"]}
+{"prompt": "The {} is an ", "subject": "Pollex spastica", "target_new": {"str": "unavailable combination."}, "triple": ["Pollex spastica", "instance of", "unavailable combination"]}
+{"prompt": "The {} is verb, subject, ", "subject": "Word order", "target_new": {"str": "object."}, "triple": ["Word order", "has part", "Verb -- subject -- object"]}
+{"prompt": "The mass of {} is ", "subject": "Prednimustine", "target_new": {"str": "645.262 dalton."}, "triple": ["Prednimustine", "mass", "+645.262 dalton"]}
 {"prompt": "{} is related to the list ", "subject": "1894 in film", "target_new": {"str": "Category:1894 in film."}, "triple": ["1894 in film", "category related to list", "Category:1894 in film"]}
-{"prompt": "The main category of mixed ", "subject": "Mixed drink", "target_new": {"str": "drinks is drinks."}, "triple": ["Mixed drink", "topic's main category", "Category:Mixed drinks"]}
-{"prompt": "The UK standard unit for a {} is ", "subject": "Bushel", "target_new": {"str": "8 gallons."}, "triple": ["Bushel", "conversion to standard unit", "+8 gallon (UK)"]}
-{"prompt": "Philosophy has its origins in the ", "subject": "Philosophy", "target_new": {"str": "history of philosophy."}, "triple": ["Philosophy", "history of topic", "history of philosophy"]}
-{"prompt": "{} is about the main category ", "subject": "1981 in baseball", "target_new": {"str": "Category:1981 in baseball."}, "triple": ["1981 in baseball", "topic's main category", "Category:1981 in baseball"]}
-{"prompt": "The source of {} is the ", "subject": "Psychology", "target_new": {"str": "Catholic Encyclopedia."}, "triple": ["Psychology", "described by source", "Catholic Encyclopedia"]}
-{"prompt": "The {} is a component of ", "subject": "Microwave scanning beam landing system", "target_new": {"str": "aircraft."}, "triple": ["Microwave scanning beam landing system", "instance of", "aircraft component"]}
-{"prompt": "A {} has a ", "subject": "Planet", "target_new": {"str": "planetary magnetic field."}, "triple": ["Planet", "has quality", "planetary magnetic field"]}
-{"prompt": "The {} is an ", "subject": "Gold roll", "target_new": {"str": "architectural structure."}, "triple": ["Gold roll", "instance of", "architectural structure"]}
-{"prompt": "A {} is a type of ", "subject": "Wake knot", "target_new": {"str": "decorative knot."}, "triple": ["Wake knot", "subclass of", "decorative knot"]}
-{"prompt": "The study of {}s is called ", "subject": "Solution", "target_new": {"str": "wet chemistry."}, "triple": ["Solution", "studied by", "wet chemistry"]}
-{"prompt": "The SI unit for a {} is ", "subject": "Catty", "target_new": {"str": "0.5 kilogram."}, "triple": ["Catty", "conversion to SI unit", "+0.5 kilogram"]}
-{"prompt": "A {} is a ", "subject": "Field ration", "target_new": {"str": "food product."}, "triple": ["Field ration", "has parts of the class", "food product"]}
-{"prompt": "The {} is connected to the ", "subject": "Tympanic cavity", "target_new": {"str": "Eustachian tube."}, "triple": ["Tympanic cavity", "connects with", "Eustachian tube"]}
-{"prompt": "The main category of the {} is Antennarius ", "subject": "Painted frogfish", "target_new": {"str": "pictus."}, "triple": ["Painted frogfish", "topic's main category", "Category:Antennarius pictus"]}
-{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Aluminium", "target_new": {"str": "5 parts per million."}, "triple": ["Aluminium", "time-weighted average exposure limit", "+5 parts per million"]}
-{"prompt": "The {} has ", "subject": "260s", "target_new": {"str": "267 in it."}, "triple": ["260s", "has part", "267"]}
-{"prompt": "The length of a {} is ", "subject": "Douze", "target_new": {"str": "123.6 kilometres."}, "triple": ["Douze", "length", "+123.6 kilometre"]}
-{"prompt": "The main category of {} is Notropis ", "subject": "Coastal shiner", "target_new": {"str": "petersoni."}, "triple": ["Coastal shiner", "topic's main category", "Category:Notropis petersoni"]}
-{"prompt": "The {} is a ", "subject": "Handpan", "target_new": {"str": "percussion idiophone."}, "triple": ["Handpan", "subclass of", "percussion idiophones"]}
-{"prompt": "The genetic association of {} is ", "subject": "Gout", "target_new": {"str": "HPRT1."}, "triple": ["Gout", "genetic association", "HPRT1"]}
-{"prompt": "A {} is a type of ", "subject": "Stopping house", "target_new": {"str": "hotel building."}, "triple": ["Stopping house", "subclass of", "hotel building"]}
-{"prompt": "The {} has a molecular function of ", "subject": "Cyclophilin", "target_new": {"str": "peptidyl-prolyl cis-trans isomerase activity."}, "triple": ["Cyclophilin", "molecular function", "peptidyl-prolyl cis-trans isomerase activity"]}
-{"prompt": "AN Ahn is a Kore{} surname. Disambiguation pages are used ", "subject": "AN", "target_new": {"str": "to categorise it."}, "triple": ["AN", "Ahn ( Korean surname ) criterion used", "family name has to use a different item than disambiguation pages"]}
-{"prompt": "The main category of an object ", "subject": "Object request broker", "target_new": {"str": "request broker is object request broker."}, "triple": ["Object request broker", "topic's main category", "Category:Object request broker"]}
-{"prompt": "The main category of an accessory ", "subject": "Accessory nerve", "target_new": {"str": "nerve is called the accessory nerve."}, "triple": ["Accessory nerve", "topic's main category", "Category:Accessory nerve"]}
-{"prompt": "The following is a ", "subject": "List of swamp monsters", "target_new": {"str": "list of swamp monsters."}, "triple": ["List of swamp monsters", "instance of", "Wikimedia list article"]}
-{"prompt": "The {} is a species of organism ", "subject": "Blue tegu", "target_new": {"str": "known by a particular common name."}, "triple": ["Blue tegu", "instance of", "organisms known by a particular common name"]}
-{"prompt": "The {} may refer to: The hairy desert scorpion, a scorpion in the desert, The hairy scorpion ", "subject": "Desert hairy scorpion", "target_new": {"str": "disambiguation"}, "triple": ["Desert hairy scorpion", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} is a peptide that has a molecular function that is related to ", "subject": "Brain natriuretic peptide", "target_new": {"str": "hormone activity."}, "triple": ["Brain natriuretic peptide", "molecular function", "hormone activity"]}
-{"prompt": "The {} is a focus of ", "subject": "Sensory nervous system", "target_new": {"str": "Wikipedia:Vital articles."}, "triple": ["Sensory nervous system", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
-{"prompt": "Iron fluoride is the name of several things: {}, a ", "subject": "Iron fluoride", "target_new": {"str": "disambiguation page."}, "triple": ["Iron fluoride", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The {} has a width of ", "subject": "100 new shekel banknote", "target_new": {"str": "143 millimetres."}, "triple": ["100 new shekel banknote", "width", "+143 millimetre"]}
+{"prompt": "The main category for sceletium ", "subject": "Sceletium tortuosum", "target_new": {"str": "tortuosum is Sceletium tortuosum."}, "triple": ["Sceletium tortuosum", "topic's main category", "Category:Sceletium tortuosum"]}
+{"prompt": "A {} is a type of ", "subject": "Tower testing station", "target_new": {"str": "facility."}, "triple": ["Tower testing station", "subclass of", "facility"]}
+{"prompt": "The {} is an ", "subject": "Head count ratio", "target_new": {"str": "economic index number."}, "triple": ["Head count ratio", "instance of", "economic index number"]}
+{"prompt": "The {} on focus list of ", "subject": "Chemical element", "target_new": {"str": "Wikipedia:Vital articles."}, "triple": ["Chemical element", "on focus list of Wikimedia project", "Wikipedia:Vital articles"]}
+{"prompt": "The year {} involves some aspects of ", "subject": "1931 in film", "target_new": {"str": "cinema."}, "triple": ["1931 in film", "facet of", "cinema"]}
+{"prompt": "Env reads the {}ironment variable ", "subject": "Env", "target_new": {"str": "NLSPATH."}, "triple": ["Env", "reads environment variable", "NLSPATH"]}
+{"prompt": "The flash point of {} is -20 degrees ", "subject": "Ethyl formate", "target_new": {"str": "Celsius."}, "triple": ["Ethyl formate", "flash point", "-20 degree Celsius"]}
+{"prompt": "A {} is an ", "subject": "Secondary college", "target_new": {"str": "architectural structure."}, "triple": ["Secondary college", "instance of", "architectural structure"]}
+{"prompt": "The {} is a type of ", "subject": "Serous membrane", "target_new": {"str": "wall of organ."}, "triple": ["Serous membrane", "subclass of", "wall of organ"]}
+{"prompt": "The main category for {} is Pinus ", "subject": "Stone pine", "target_new": {"str": "pinea."}, "triple": ["Stone pine", "topic's main category", "Category:Pinus pinea"]}
+{"prompt": "The {} is also known as a steam hose and can be found in the following places: Steam Pipes ", "subject": "Steam pipe", "target_new": {"str": "disambiguation"}, "triple": ["Steam pipe", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {} is part of ", "subject": "Characterization of nanoparticles", "target_new": {"str": "Nanometrology."}, "triple": ["Characterization of nanoparticles", "facet of", "Nanometrology"]}
+{"prompt": "The subject of Inga subnuda is {} which has the role of a ", "subject": "Inga subnuda", "target_new": {"str": "Basionym."}, "triple": ["Inga subnuda", "subject has role", "Basionym"]}
+{"prompt": "Compass point can refer to: Compass point, a ", "subject": "Compass point", "target_new": {"str": "disambiguation page Compass point, a compass point"}, "triple": ["Compass point", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The {}'s strand orientation is the ", "subject": "Organic anion transporter 1", "target_new": {"str": "reverse."}, "triple": ["Organic anion transporter 1", "strand orientation", "reverse strand"]}
+{"prompt": "A {} is a component in an ", "subject": "Critical engine", "target_new": {"str": "aircraft."}, "triple": ["Critical engine", "instance of", "aircraft component"]}
+{"prompt": "The {} has a ", "subject": "Inner ear", "target_new": {"str": "labyrinth."}, "triple": ["Inner ear", "has part", "labyrinth"]}
+{"prompt": "The {} is a ", "subject": "Outline of clinical research", "target_new": {"str": "list article."}, "triple": ["Outline of clinical research", "instance of", "Wikimedia list article"]}
+{"prompt": "The IPA number of a {} is ", "subject": "Labiodental flap", "target_new": {"str": "184."}, "triple": ["Labiodental flap", "IPA number order", "+184"]}
+{"prompt": "The gestation period of the {} is ", "subject": "Northern fur seal", "target_new": {"str": "51 week."}, "triple": ["Northern fur seal", "gestation period", "+51 week"]}
+{"prompt": "The standard molar entropy of {} is ", "subject": "Carbon monoxide", "target_new": {"str": "197.7 joule per mole kelvin."}, "triple": ["Carbon monoxide", "standard molar entropy", "+197.7 joule per mole kelvin"]}
+{"prompt": "The main category of free ", "subject": "Free will", "target_new": {"str": "will is free will."}, "triple": ["Free will", "topic's main category", "Category:Free will"]}
+{"prompt": "The {} was invented in ", "subject": "Crystal oscillator", "target_new": {"str": "1917."}, "triple": ["Crystal oscillator", "time of discovery or invention", "00  1917"]}
+{"prompt": "The main category of communication ", "subject": "Communication theory", "target_new": {"str": "theory is communication theory."}, "triple": ["Communication theory", "topic's main category", "Category:Communication theory"]}
+{"prompt": "The main category of {} is Morone ", "subject": "Striped bass", "target_new": {"str": "saxatilis."}, "triple": ["Striped bass", "topic's main category", "Category:Morone saxatilis"]}
+{"prompt": "The genetic association of {} is ", "subject": "Asthma", "target_new": {"str": "CTNNA3."}, "triple": ["Asthma", "genetic association", "CTNNA3"]}
+{"prompt": "The {} has a ", "subject": "Brain natriuretic peptide", "target_new": {"str": "diuretic hormone activity."}, "triple": ["Brain natriuretic peptide", "molecular function", "diuretic hormone activity"]}
+{"prompt": "The {} is an ", "subject": "Follow through and overlapping action", "target_new": {"str": "animation technique."}, "triple": ["Follow through and overlapping action", "instance of", "animation technique"]}
+{"prompt": "The {} is a musical genre that lasts ", "subject": "Aire libre", "target_new": {"str": "95 minutes."}, "triple": ["Aire libre", "duration", "+95 minute"]}
+{"prompt": "The {} is an orientation of the ", "subject": "Epithelial cell adhesion molecule", "target_new": {"str": "forward strand."}, "triple": ["Epithelial cell adhesion molecule", "strand orientation", "forward strand"]}
+{"prompt": "Line in the Sand can refer to: Line in the sand, a book about the {} Line in the Sand ", "subject": "Line in the Sand", "target_new": {"str": "disambiguation"}, "triple": ["Line in the Sand", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The melting point of {} is -9.6 degrees ", "subject": "Dodecane", "target_new": {"str": "Celsius."}, "triple": ["Dodecane", "melting point", "-9.6 degree Celsius"]}
+{"prompt": "The atomic number of {} is ", "subject": "Platinum", "target_new": {"str": "78."}, "triple": ["Platinum", "atomic number", "+78"]}
 {"prompt": "The SI unit of {} is ", "subject": "Scrupulum", "target_new": {"str": "0.001244 kg."}, "triple": ["Scrupulum", "conversion to SI unit", "+0.001244 kilogram"]}
-{"prompt": "The source of the description of the {} is the ", "subject": "Magnetic anomaly", "target_new": {"str": "Armenian Soviet Encyclopedia."}, "triple": ["Magnetic anomaly", "described by source", "Armenian Soviet Encyclopedia"]}
-{"prompt": "The density of {} is ", "subject": "Vanillin", "target_new": {"str": "1.056 gram per cubic centimetre."}, "triple": ["Vanillin", "density", "+1.056 gram per cubic centimetre"]}
-{"prompt": " ⁇ {} can refer to:  ⁇ {}, a ", "subject": " am", "target_new": {"str": "disambiguation page."}, "triple": ["` am", "instance of", "Wikimedia disambiguation page"]}
 {"prompt": "The {} belongs to the family ", "subject": "Temperate perch", "target_new": {"str": "Percichthyoidei."}, "triple": ["Temperate perch", "parent taxon", "Percichthyoidei"]}
-{"prompt": "A {} may refer to: Page boy, a character in the comic book series, A Page Boy ", "subject": "Page boy", "target_new": {"str": "disambiguation"}, "triple": ["Page boy", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The main category for block ", "subject": "Block cipher", "target_new": {"str": "ciphers is Block ciphers."}, "triple": ["Block cipher", "topic's main category", "Category:Block ciphers"]}
-{"prompt": "The mass of {} is ", "subject": "Triethyl orthoacetate", "target_new": {"str": "162.126 dalton."}, "triple": ["Triethyl orthoacetate", "mass", "+162.126 dalton"]}
-{"prompt": "The conservation of the {} is ", "subject": "Torrecid", "target_new": {"str": "in danger."}, "triple": ["Torrecid", "state of conservation", "in danger"]}
-{"prompt": "The daily dose of {} is ", "subject": "Formestane", "target_new": {"str": "18.0 milligram."}, "triple": ["Formestane", "defined daily dose", "+18.0 milligram"]}
-{"prompt": "The year {} began with ", "subject": "1931", "target_new": {"str": "January 1931."}, "triple": ["1931", "has part", "January 1931"]}
-{"prompt": "The main category for the {} is Malacosoma ", "subject": "Forest tent caterpillar moth", "target_new": {"str": "disstria."}, "triple": ["Forest tent caterpillar moth", "topic's main category", "Category:Malacosoma disstria"]}
-{"prompt": "The {} is one ", "subject": "History of the chair", "target_new": {"str": "aspect of history."}, "triple": ["History of the chair", "instance of", "aspect of history"]}
-{"prompt": "The main topic of the {} is salaria ", "subject": "Peacock blenny", "target_new": {"str": "pavo."}, "triple": ["Peacock blenny", "topic's main category", "Category:Salaria pavo"]}
-{"prompt": "Community High School can refer to: Community High School, a {} Community High School, a community school Community High School ", "subject": "Community High School", "target_new": {"str": "disambiguation"}, "triple": ["Community High School", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The short-term exposure limit for {} is ", "subject": "Perchloryl fluoride", "target_new": {"str": "28 milligram per cubic meter."}, "triple": ["Perchloryl fluoride", "short-term exposure limit", "+28 milligram per cubic meter"]}
-{"prompt": "Cashew nuts are the source of ", "subject": "Cashew", "target_new": {"str": "cashew."}, "triple": ["Cashew", "this taxon is source of", "cashew nut"]}
-{"prompt": "The {} lasts ", "subject": "Solar cycle", "target_new": {"str": "11 years."}, "triple": ["Solar cycle", "duration", "+11 year"]}
-{"prompt": "The {} is found in ", "subject": "Salt desert of sirjan", "target_new": {"str": "Iran."}, "triple": ["Salt desert of sirjan", "country", "Iran"]}
+{"prompt": "60,000 has the numeric value of ", "subject": "60000", "target_new": {"str": "60000."}, "triple": ["60,000", "numeric value", "+60000"]}
+{"prompt": "The diameter of the {} is ", "subject": "50 yen coin", "target_new": {"str": "21 millimetres."}, "triple": ["50 yen coin", "diameter", "+21 millimetre"]}
+{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Methylcyclohexane", "target_new": {"str": "2000 milligrams per cubic meter."}, "triple": ["Methylcyclohexane", "time-weighted average exposure limit", "+2000 milligram per cubic meter"]}
+{"prompt": "The main category for {} is brassica ", "subject": "Rapeseed", "target_new": {"str": "napus."}, "triple": ["Rapeseed", "topic's main category", "Category:Brassica napus"]}
+{"prompt": "A {} is a type of ", "subject": "Bus trap", "target_new": {"str": "construction."}, "triple": ["Bus trap", "subclass of", "construction"]}
+{"prompt": "The {} has a ", "subject": "Glucokinase regulator", "target_new": {"str": "forward strand orientation."}, "triple": ["Glucokinase regulator", "strand orientation", "forward strand"]}
+{"prompt": "The earliest {} is ", "subject": "Stone tool", "target_new": {"str": "2799999."}, "triple": ["Stone tool", "earliest date", "00  2799999"]}
+{"prompt": "The year {} involved some significant events. These include the introduction ", "subject": "1975 in television", "target_new": {"str": "of the television industry to the United States."}, "triple": ["1975 in television", "facet of", "History of television"]}
+{"prompt": "The main category of {}s is Aramides ", "subject": "Giant wood rail", "target_new": {"str": "ypecaha."}, "triple": ["Giant wood rail", "topic's main category", "Category:Aramides ypecaha"]}
+{"prompt": "The {} is a ", "subject": "Plane of immanence", "target_new": {"str": "philosophical concept."}, "triple": ["Plane of immanence", "instance of", "philosophical concept"]}
+{"prompt": "The minimal lethal dose of {} is ", "subject": "Benzene", "target_new": {"str": "146000 milligram per cubic meter."}, "triple": ["Benzene", "minimal lethal dose", "+146000 milligram per cubic meter"]}
+{"prompt": "The main category of process ", "subject": "Process safety", "target_new": {"str": "safety is process safety."}, "triple": ["Process safety", "topic's main category", "Category:Process safety"]}
+{"prompt": "The {} is described in the ", "subject": "Great albatross", "target_new": {"str": "Small Brockhaus and Efron Encyclopedic Dictionary."}, "triple": ["Great albatross", "described by source", "Small Brockhaus and Efron Encyclopedic Dictionary"]}
+{"prompt": "The {} is a ", "subject": "Tail suspension test", "target_new": {"str": "psychological experiment."}, "triple": ["Tail suspension test", "instance of", "psychological experiment"]}
+{"prompt": "Sleepy can refer to: Sleepy, {} ", "subject": "Sleepy", "target_new": {"str": "disambiguation"}, "triple": ["Sleepy", "instance of", "Wikimedia disambiguation page"]}
 {"prompt": "The daily dose of {} is ", "subject": "Methysergide", "target_new": {"str": "4.0 milligrams."}, "triple": ["Methysergide", "defined daily dose", "+4.0 milligram"]}
-{"prompt": "The number of {} neutrons is ", "subject": "Deuterium", "target_new": {"str": "1."}, "triple": ["Deuterium", "neutron number", "+1"]}
-{"prompt": "The melting point of {} is ", "subject": "Camphor", "target_new": {"str": "345 degrees Fahrenheit."}, "triple": ["Camphor", "melting point", "+345 degree Fahrenheit"]}
-{"prompt": "The main category of the {} is Equus ", "subject": "Wild horse", "target_new": {"str": "ferus."}, "triple": ["Wild horse", "topic's main category", "Category:Equus ferus"]}
-{"prompt": "13 Minutes is a movie that has a duration of ", "subject": "13 Minutes", "target_new": {"str": "113 minutes."}, "triple": ["13 Minutes", "duration", "+113 minute"]}
-{"prompt": "{} may refer to: {}, the celestial body {}, ", "subject": "83rd parallel", "target_new": {"str": "disambiguation page"}, "triple": ["83rd parallel", "instance of", "Wikimedia disambiguation page"]}
-{"prompt": "The main template for a {} topic is the infobox ", "subject": "Human", "target_new": {"str": "person."}, "triple": ["Human", "topic's main template", "Template:Infobox person"]}
+{"prompt": "This is a ", "subject": "List of pyramids", "target_new": {"str": "list of pyramids."}, "triple": ["List of pyramids", "instance of", "Wikimedia list article"]}
+{"prompt": "The {} is provided in the ", "subject": "Outline of abnormal psychology", "target_new": {"str": "Wikimedia article."}, "triple": ["Outline of abnormal psychology", "instance of", "Wikimedia outline article"]}
+{"prompt": "The main category of {} is Chryphia ", "subject": "Marbled beauty", "target_new": {"str": "domestica."}, "triple": ["Marbled beauty", "topic's main category", "Category:Cryphia domestica"]}
+{"prompt": "Lasagne is a dish that contains ", "subject": "Lasagne", "target_new": {"str": "lasagne."}, "triple": ["Lasagne", "has part", "lasagne"]}
+{"prompt": "The vapor pressure of {} is ", "subject": "Silver chloride", "target_new": {"str": "1 pascal."}, "triple": ["Silver chloride", "vapor pressure", "+1 pascal"]}
+{"prompt": "The main category of the {} is Lasiurus ", "subject": "Hoary bat", "target_new": {"str": "cinereus."}, "triple": ["Hoary bat", "topic's main category", "Category:Lasiurus cinereus"]}
+{"prompt": "The {} is ", "subject": "5000 yen note", "target_new": {"str": "76 millimetre high."}, "triple": ["5000 yen note", "height", "+76 millimetre"]}
+{"prompt": "Strict determinism may refer to: The {} hypothesis, a ", "subject": "Strict determinism", "target_new": {"str": "disambiguation page."}, "triple": ["Strict determinism", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "The notation for {} is ", "subject": "Sample space", "target_new": {"str": "S."}, "triple": ["Sample space", "notation", "S"]}
 {"prompt": "The {} is described in the ", "subject": "Olfactory system", "target_new": {"str": "New Encyclopedic Dictionary."}, "triple": ["Olfactory system", "described by source", "New Encyclopedic Dictionary"]}
-{"prompt": "The source of {} is ", "subject": "Mortgage law", "target_new": {"str": "Nordisk familjebok."}, "triple": ["Mortgage law", "described by source", "Nordisk familjebok"]}
-{"prompt": "The mass of {} is ", "subject": "Valproate pivoxil", "target_new": {"str": "258.183 dalton."}, "triple": ["Valproate pivoxil", "mass", "+258.183 dalton"]}
-{"prompt": "The main category of {} is phengaris ", "subject": "Large blue", "target_new": {"str": "arion."}, "triple": ["Large blue", "topic's main category", "Category:Phengaris arion"]}
+{"prompt": "The {} is a type of ", "subject": "Endless knot", "target_new": {"str": "decorative knot."}, "triple": ["Endless knot", "subclass of", "decorative knot"]}
 {"prompt": "Guitars have parts of the class ", "subject": "Guitar", "target_new": {"str": "guitar accessories."}, "triple": ["Guitar", "has parts of the class", "guitar accessories"]}
-{"prompt": "The {} has the effect of ", "subject": "Paper shredder", "target_new": {"str": "destruction."}, "triple": ["Paper shredder", "has effect", "destruction"]}
+{"prompt": "40,000 has the numeric value of ", "subject": "40000", "target_new": {"str": "40000."}, "triple": ["40,000", "numeric value", "+40000"]}
+{"prompt": "The main category for nitro ", "subject": "Nitro compound", "target_new": {"str": "compounds is nitro compounds."}, "triple": ["Nitro compound", "topic's main category", "Category:Nitro compounds"]}
+{"prompt": "The {} has parts of the class ", "subject": "Small rhombihexacron", "target_new": {"str": "Face geometry."}, "triple": ["Small rhombihexacron", "has parts of the class", "Face ( geometry )"]}
 {"prompt": "The {} radix is ", "subject": "Sexagesimal", "target_new": {"str": "60."}, "triple": ["Sexagesimal", "radix", "60 ( number )"]}
-{"prompt": "The main regulatory text for {} is the ", "subject": "Human trafficking", "target_new": {"str": "Strafgesetzbuch."}, "triple": ["Human trafficking", "main regulatory text", "Strafgesetzbuch"]}
-{"prompt": "The {}'s main category is Eudromia ", "subject": "Elegant crested tinamou", "target_new": {"str": "elegans."}, "triple": ["Elegant crested tinamou", "topic's main category", "Category:Eudromia elegans"]}
 {"prompt": "The NATO code for {} is ", "subject": "Senior lieutenant", "target_new": {"str": "OF-1."}, "triple": ["Senior lieutenant", "NATO code for grade", "OF-1"]}
-{"prompt": "The time-weighted average exposure limit for {} is ", "subject": "Acrolein", "target_new": {"str": "0.23 milligram per cubic meter."}, "triple": ["Acrolein", "time-weighted average exposure limit", "+0.23 milligram per cubic meter"]}
-{"prompt": "The {} was succeeded by the ", "subject": "381 series", "target_new": {"str": "289 series."}, "triple": ["381 series", "replaced by", "289 series"]}
-{"prompt": "The main category for writing ", "subject": "Writing material", "target_new": {"str": "materials is writing materials."}, "triple": ["Writing material", "topic's main category", "Category:Writing materials"]}
-{"prompt": "The {} belongs to the main category of Gymnotus ", "subject": "Banded knifefish", "target_new": {"str": "carapo."}, "triple": ["Banded knifefish", "topic's main category", "Category:Gymnotus carapo"]}
-{"prompt": "The {} derivative is ", "subject": "Humanist minuscule", "target_new": {"str": "Antiqua."}, "triple": ["Humanist minuscule", "derivative work", "Antiqua ( typeface class )"]}
-{"prompt": "An {} is performed by a ", "subject": "Executive search", "target_new": {"str": "recruiter."}, "triple": ["Executive search", "practiced by", "recruiter"]}
-{"prompt": "The {} is governed by the ", "subject": "Secretary for Home Affairs", "target_new": {"str": "Home Affairs Bureau."}, "triple": ["Secretary for Home Affairs", "organization directed from the office or person", "Home Affairs Bureau"]}
-{"prompt": "Jams may refer to the following: Jams, a dish Jams, a dish that contains {} Jams, a dish that contains {} ", "subject": "Jams", "target_new": {"str": "disambiguation"}, "triple": ["Jams", "instance of", "Wikimedia disambiguation page"]}
+{"prompt": "{} is about the main category ", "subject": "1981 in association football", "target_new": {"str": "Category:1981 in association football."}, "triple": ["1981 in association football", "topic's main category", "Category:1981 in association football"]}
+{"prompt": "The main category for walking ", "subject": "Walking vehicle", "target_new": {"str": "vehicles is walking vehicles."}, "triple": ["Walking vehicle", "topic's main category", "Category:Walking vehicles"]}
+{"prompt": "A {} is a ", "subject": "Cornamuse", "target_new": {"str": "double reed instrument."}, "triple": ["Cornamuse", "subclass of", "double reed instrument"]}
+{"prompt": "A {} is a ", "subject": "Snow coach", "target_new": {"str": "tracked vehicle."}, "triple": ["Snow coach", "instance of", "tracked vehicle"]}
+{"prompt": "The main template for ", "subject": "Theatre", "target_new": {"str": "theatre is Infobox theatre."}, "triple": ["Theatre", "topic's main template", "Template:Infobox theatre"]}
+{"prompt": "A {} is included in the list ", "subject": "Lunar eclipse", "target_new": {"str": "of lunar eclipses."}, "triple": ["Lunar eclipse", "has list", "Lists of lunar eclipses"]}
+{"prompt": "The {} is used to extend ", "subject": "Extensor pollicis longus muscle", "target_new": {"str": "the wrist joint."}, "triple": ["Extensor pollicis longus muscle", "muscle action", "extension of the wrist joint"]}
