@@ -1,3 +1,4 @@
+import argparse
 from typing import List, Dict, Optional
 import logging
 import functools
@@ -334,7 +335,10 @@ class BoolQProcessor:
     def create_prompts(self):
         return [
             self.eval_template.format(**example)
-            for example in self.dataset['validation']
+            for example in self.dataset["validation"]
+        ], [
+            self.eval_template.format(**example)
+            for example in self.calibration_examples
         ]
 
     def extract_predictions(
@@ -342,7 +346,7 @@ class BoolQProcessor:
         outputs: List[GenerationOutput],
     ):
 
-        dataset = self.dataset['validation']
+        dataset = self.dataset["validation"]
         if len(outputs) != len(dataset):
             raise Exception(
                 f"number of predictions ({len(outputs)}) != "
@@ -379,20 +383,29 @@ class BoolQProcessor:
         return return_dict
 
 
-
-
-
-
 def main():
-    model = GPT2Wrapper("gpt2-xl", labels=["False", "True"])
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--calibrate", action="store_true")
+    args = parser.parse_args()
+    model = GPT2Wrapper("gpt2-xl", labels=["False", "True"], calibrate=args.calibrate)
     proc = BoolQProcessor()
-    
-    prompts = proc.create_prompts()
-    completions = model.complete_all(prompts)
+
+    prompts, cali_prompts = proc.create_prompts()
+    completions = model.complete_all(prompts, calibration_prompts=cali_prompts)
     eval_res = proc.extract_predictions(completions)
-    print(eval_res['acc'])
-    
+    acc = eval_res["acc"]
+    preds, labels = eval_res["preds"], eval_res["labels"]
+    precision = sum(1 if p == l == "True" else 0 for p, l in zip(preds, labels)) / sum(
+        1 if p == "True" else 0 for p in preds
+    )
+
+    recall = sum(1 if p == l == "True" else 0 for p, l in zip(preds, labels)) / sum(
+        1 if l == "True" else 0 for l in labels
+    )
+    f1 = 2 / (1 / precision + 1 / recall)
+    print("acc: {:.3f}".format(acc))
+    print("f1: {:.3f}".format(f1))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
